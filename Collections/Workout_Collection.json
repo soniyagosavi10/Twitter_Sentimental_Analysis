@@ -1,0 +1,1699 @@
+[{
+  "_id": 1327693485441511400,
+  "id_str": "1327693485441511429",
+  "Truncated": false,
+  "Display_text_range": [
+    16,
+    207
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "killa_lipstick",
+        "name": "barbican barbie 💛🌻🌞✨",
+        "id": 56422212,
+        "id_str": "56422212",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "In_reply_to_status_id": 1327693118163083300,
+  "In_reply_to_status_id_str": "1327693118163083269",
+  "In_reply_to_user_id": 56422212,
+  "In_reply_to_user_id_str": "56422212",
+  "In_reply_to_screen_name": "killa_lipstick",
+  "User": {
+    "id": 3191867672,
+    "id_str": "3191867672",
+    "name": "minding my black ass business ✨🖤",
+    "screen_name": "queenkayday",
+    "location": "30,000ft in the clouds ☁️",
+    "description": "On today’s episode I will be talking shit, sprinkle in some self-reflection, and a dash of being jetlagged ✈️💫for more subscribe to my OnlyPodcast 👇🏾",
+    "url": "https://t.co/W4DHMlT4if",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/W4DHMlT4if",
+            "expanded_url": "https://podcasts.apple.com/us/podcast/jetlagged/id1479657741",
+            "display_url": "podcasts.apple.com/us/podcast/jet…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1229,
+    "friends_count": 948,
+    "listed_count": 0,
+    "created_at": "Mon May 11 08:20:51 +0000 2015",
+    "favourites_count": 105352,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 80335,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1326607173615497218/okBCc4vt_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1326607173615497218/okBCc4vt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3191867672/1605558201",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Sat Nov 14 19:22:48 +0000 2020",
+  "Tweet": " so i usually drink coffee which i heard is a “natural pre workout” and for the most part i do have a lot of energy but i do 30 min straight on the stair master i’m tired of dying every day ",
+  "UserName": "minding my black ass business ✨🖤",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1326344867107098600,
+  "id_str": "1326344867107098624",
+  "Truncated": false,
+  "Display_text_range": [
+    14,
+    195
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "bsosaaaavage",
+        "name": "B $o $av.⚔️",
+        "id": 781606878,
+        "id_str": "781606878",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/aRLbr9F2ee",
+        "expanded_url": "https://www.amazon.com/dp/B00QYZ6MLG/ref=cm_sw_r_cp_api_fabt1_ez0QFb026WJAR",
+        "display_url": "amazon.com/dp/B00QYZ6MLG/…",
+        "indices": [
+          172,
+          195
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "In_reply_to_status_id": 1326221443223281700,
+  "In_reply_to_status_id_str": "1326221443223281666",
+  "In_reply_to_user_id": 781606878,
+  "In_reply_to_user_id_str": "781606878",
+  "In_reply_to_screen_name": "bsosaaaavage",
+  "User": {
+    "id": 2694430519,
+    "id_str": "2694430519",
+    "name": "lici ✿",
+    "screen_name": "yeah_lici",
+    "location": "",
+    "description": "ig: yeah_alicia",
+    "url": "https://t.co/ScNVY4VxD2",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/ScNVY4VxD2",
+            "expanded_url": "https://blacklivesmatters.carrd.co/",
+            "display_url": "blacklivesmatters.carrd.co",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 387,
+    "friends_count": 287,
+    "listed_count": 2,
+    "created_at": "Thu Jul 31 01:36:36 +0000 2014",
+    "favourites_count": 5091,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5481,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1315887406667583488/hjvkpUf2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315887406667583488/hjvkpUf2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2694430519/1598096385",
+    "profile_link_color": "F58EA8",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Wed Nov 11 02:03:53 +0000 2020",
+  "Tweet": " legion pulse best natural pre workout supplement for women and men – powerful nitric oxide pre workout effective pre workout for weight loss (fruit punch) https//tco/arlbr9f2ee",
+  "UserName": "lici ✿",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 1,
+  "favorited": false
+},{
+  "_id": 1329565833245450200,
+  "id_str": "1329565833245450241",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    211
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/KasdoDV7Jh",
+        "expanded_url": "https://www.amazon.com/dp/B07NX2N76T/r/ref=as_li_ss_tl?linkCode=ll1&tag=jjigs-20",
+        "display_url": "amazon.com/dp/B07NX2N76T/…",
+        "indices": [
+          188,
+          211
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"http://www.kingkups.com\" rel=\"nofollow\">JasonsJigs Deal Feed</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 202651839,
+    "id_str": "202651839",
+    "name": "Jason’s Jigs",
+    "screen_name": "JasonsJigs",
+    "location": "Miami, FL",
+    "description": "@Flip_Family || @Shop_Mako || Building\n\nAs an Amazon Associate I earn from qualifying purchase. \n\nconnect@jasonsjigs.co",
+    "url": "https://t.co/wXaUR89sRs",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/wXaUR89sRs",
+            "expanded_url": "http://www.jasonsjigs.com",
+            "display_url": "jasonsjigs.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 28240,
+    "friends_count": 233,
+    "listed_count": 144,
+    "created_at": "Thu Oct 14 14:38:37 +0000 2010",
+    "favourites_count": 228,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 29097,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1194131684867870720/f-bsyk4B_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194131684867870720/f-bsyk4B_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Thu Nov 19 23:22:51 +0000 2020",
+  "Tweet": "up to 66% off tru power shots natural pre workout energy shotclip the extra 20% off coupon amp add lightning deal priceworks on select options on lightning deal but prices will varyhttps//tco/kasdodv7jh",
+  "UserName": "Jason’s Jigs",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1329086220677222400,
+  "id_str": "1329086220677222400",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    85
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/H64KOojhnb",
+        "expanded_url": "https://buff.ly/3f3A0Qx",
+        "display_url": "buff.ly/3f3A0Qx",
+        "indices": [
+          62,
+          85
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1329086218563330000,
+        "id_str": "1329086218563330059",
+        "indices": [
+          86,
+          109
+        ],
+        "media_url": "http://pbs.twimg.com/media/EnHc371VoAsoGmV.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EnHc371VoAsoGmV.jpg",
+        "url": "https://t.co/1wTQlkFDWI",
+        "display_url": "pic.twitter.com/1wTQlkFDWI",
+        "expanded_url": "https://twitter.com/BulkSupps/status/1329086220677222400/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1532,
+            "h": 1532,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 1191740808,
+    "id_str": "1191740808",
+    "name": "BulkSupplements.com",
+    "screen_name": "BulkSupps",
+    "location": "Nevada",
+    "description": "Hundreds of clean & pure bulk supplements. Great service, unbeatable prices, and nutrition that gives you the results you want.",
+    "url": "http://t.co/SRwv4JniRI",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/SRwv4JniRI",
+            "expanded_url": "http://www.bulksupplements.com",
+            "display_url": "bulksupplements.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 7006,
+    "friends_count": 6866,
+    "listed_count": 15,
+    "created_at": "Mon Feb 18 02:05:20 +0000 2013",
+    "favourites_count": 636,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5992,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1232444482139779073/dzoldEzz_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232444482139779073/dzoldEzz_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1191740808/1573097636",
+    "profile_link_color": "FF691F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Wed Nov 18 15:37:02 +0000 2020",
+  "Tweet": "3 natural preworkout supplements to give you an energy boost https//tco/h64koojhnb https//tco/1wtqlkfdwi",
+  "UserName": "BulkSupplements.com",
+  "Retweet_Count": 0,
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1329086218563330000,
+        "id_str": "1329086218563330059",
+        "indices": [
+          86,
+          109
+        ],
+        "media_url": "http://pbs.twimg.com/media/EnHc371VoAsoGmV.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EnHc371VoAsoGmV.jpg",
+        "url": "https://t.co/1wTQlkFDWI",
+        "display_url": "pic.twitter.com/1wTQlkFDWI",
+        "expanded_url": "https://twitter.com/BulkSupps/status/1329086220677222400/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1532,
+            "h": 1532,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "favorite_count": 1,
+  "favorited": false
+},{
+  "_id": 1330264224346595300,
+  "id_str": "1330264224346595332",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    107
+  ],
+  "Entites": {
+    "hashtags": [
+      {
+        "text": "supplements",
+        "indices": [
+          86,
+          98
+        ]
+      },
+      {
+        "text": "medical",
+        "indices": [
+          99,
+          107
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/XRikTnMWnY",
+        "expanded_url": "https://community.bulksupplements.com/3-natural-pre-workout-supplements-to-give-you-an-energy-boost/",
+        "display_url": "community.bulksupplements.com/3-natural-pre-…",
+        "indices": [
+          62,
+          85
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 1149495738738434000,
+    "id_str": "1149495738738434049",
+    "name": "Science Connecting",
+    "screen_name": "ScienceConnect2",
+    "location": "",
+    "description": "Science Connecting\nSummaries of the latest science useful in life. Everything from health, fitness, nutrition, productivity, happiness, and creativity.",
+    "url": "https://t.co/uCC8zuPNXf",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/uCC8zuPNXf",
+            "expanded_url": "https://scienceconnecting.com",
+            "display_url": "scienceconnecting.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 16573,
+    "friends_count": 17286,
+    "listed_count": 26,
+    "created_at": "Fri Jul 12 01:48:35 +0000 2019",
+    "favourites_count": 2153,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8051,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1149496710961356800/cekkeDFE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149496710961356800/cekkeDFE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1149495738738434049/1564177698",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Sat Nov 21 21:38:00 +0000 2020",
+  "Tweet": "3 natural preworkout supplements to give you an energy boost https//tco/xriktnmwny #supplements #medical",
+  "UserName": "Science Connecting",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1336035254830735400,
+  "id_str": "1336035254830735361",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    107
+  ],
+  "Entites": {
+    "hashtags": [
+      {
+        "text": "supplements",
+        "indices": [
+          86,
+          98
+        ]
+      },
+      {
+        "text": "medical",
+        "indices": [
+          99,
+          107
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/iTIMYlakOU",
+        "expanded_url": "https://community.bulksupplements.com/3-natural-pre-workout-supplements-to-give-you-an-energy-boost/",
+        "display_url": "community.bulksupplements.com/3-natural-pre-…",
+        "indices": [
+          62,
+          85
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 1153057342499373000,
+    "id_str": "1153057342499373057",
+    "name": "David White",
+    "screen_name": "DavidWhiteGuru",
+    "location": "Tampa, FL",
+    "description": "Fitness gurus are a dime a dozen these days, and choosing who to listen to can feel like half the battle of getting into shape. Marathon runner/Life Coach",
+    "url": "https://t.co/Fowt328U3V",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/Fowt328U3V",
+            "expanded_url": "https://community.bulksupplements.com",
+            "display_url": "community.bulksupplements.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 7108,
+    "friends_count": 7112,
+    "listed_count": 22,
+    "created_at": "Sun Jul 21 21:41:08 +0000 2019",
+    "favourites_count": 6864,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5793,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1216524285969223681/vqIQzTwW_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216524285969223681/vqIQzTwW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153057342499373057/1578876967",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Mon Dec 07 19:50:01 +0000 2020",
+  "Tweet": "3 natural preworkout supplements to give you an energy boost https//tco/itimylakou #supplements #medical",
+  "UserName": "David White",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1335960411355680800,
+  "id_str": "1335960411355680773",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    219
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/EWOF6vlIYs",
+        "expanded_url": "https://multivitaminforwomen.co/1-rated-paleo-pump-all-natural-pre-workout-energy-blend-30-servings-per-container-no-additives-all-natural-flavoring-safest-pre-workout-product-5-7oz-jar-paleo-diet-friendly-free-shipping/",
+        "display_url": "multivitaminforwomen.co/1-rated-paleo-…",
+        "indices": [
+          196,
+          219
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1335960410374230000,
+        "id_str": "1335960410374230017",
+        "indices": [
+          220,
+          243
+        ],
+        "media_url": "http://pbs.twimg.com/media/EopI6j5XUAEZwKi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EopI6j5XUAEZwKi.jpg",
+        "url": "https://t.co/7tecStw5ll",
+        "display_url": "pic.twitter.com/7tecStw5ll",
+        "expanded_url": "https://twitter.com/biketrainers1/status/1335960411355680773/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 500,
+            "h": 435,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 500,
+            "h": 435,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 500,
+            "h": 435,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 938306433493491700,
+    "id_str": "938306433493491719",
+    "name": "biketrainers",
+    "screen_name": "biketrainers1",
+    "location": "United States",
+    "description": "Find the best indoor bike trainer, bike racks for cars , carbon road bikes, full suspension mountain bikes for sale consumer reports.",
+    "url": "https://t.co/Y5gPi1qg8m",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/Y5gPi1qg8m",
+            "expanded_url": "https://biketrainersindoor.review/",
+            "display_url": "biketrainersindoor.review",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 26,
+    "friends_count": 88,
+    "listed_count": 0,
+    "created_at": "Wed Dec 06 07:17:41 +0000 2017",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10581,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/938307828401541120/IbdU3ezK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/938307828401541120/IbdU3ezK_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Mon Dec 07 14:52:37 +0000 2020",
+  "Tweet": "1 rated paleo pump all natural preworkout energy blend 30 servings per container no additives all natural flavoring safest preworkout product 57oz jar paleo diet friendly free shipping https//tco/ewof6vliys https//tco/7tecstw5ll",
+  "UserName": "biketrainers",
+  "Retweet_Count": 0,
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1335960410374230000,
+        "id_str": "1335960410374230017",
+        "indices": [
+          220,
+          243
+        ],
+        "media_url": "http://pbs.twimg.com/media/EopI6j5XUAEZwKi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EopI6j5XUAEZwKi.jpg",
+        "url": "https://t.co/7tecStw5ll",
+        "display_url": "pic.twitter.com/7tecStw5ll",
+        "expanded_url": "https://twitter.com/biketrainers1/status/1335960411355680773/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 500,
+            "h": 435,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 500,
+            "h": 435,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 500,
+            "h": 435,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1335276281487712300,
+  "id_str": "1335276281487712256",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    107
+  ],
+  "Entites": {
+    "hashtags": [
+      {
+        "text": "supplements",
+        "indices": [
+          86,
+          98
+        ]
+      },
+      {
+        "text": "medical",
+        "indices": [
+          99,
+          107
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/XRikTo4xfw",
+        "expanded_url": "https://community.bulksupplements.com/3-natural-pre-workout-supplements-to-give-you-an-energy-boost/",
+        "display_url": "community.bulksupplements.com/3-natural-pre-…",
+        "indices": [
+          62,
+          85
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 1149495738738434000,
+    "id_str": "1149495738738434049",
+    "name": "Science Connecting",
+    "screen_name": "ScienceConnect2",
+    "location": "",
+    "description": "Science Connecting\nSummaries of the latest science useful in life. Everything from health, fitness, nutrition, productivity, happiness, and creativity.",
+    "url": "https://t.co/uCC8zuPNXf",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/uCC8zuPNXf",
+            "expanded_url": "https://scienceconnecting.com",
+            "display_url": "scienceconnecting.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 16480,
+    "friends_count": 17204,
+    "listed_count": 26,
+    "created_at": "Fri Jul 12 01:48:35 +0000 2019",
+    "favourites_count": 2153,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8280,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1149496710961356800/cekkeDFE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149496710961356800/cekkeDFE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1149495738738434049/1564177698",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Sat Dec 05 17:34:08 +0000 2020",
+  "Tweet": "3 natural preworkout supplements to give you an energy boost https//tco/xrikto4xfw #supplements #medical",
+  "UserName": "Science Connecting",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1336709408575922200,
+  "id_str": "1336709408575922177",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    57
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 178175732,
+    "id_str": "178175732",
+    "name": "Richardo Andrew",
+    "screen_name": "RichEyeAm",
+    "location": "Heaven",
+    "description": "The Hermès Factor",
+    "url": "https://t.co/SgjAFpmdXd",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/SgjAFpmdXd",
+            "expanded_url": "https://linktr.ee/richeyeam",
+            "display_url": "linktr.ee/richeyeam",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 10778,
+    "friends_count": 1160,
+    "listed_count": 63,
+    "created_at": "Sat Aug 14 02:07:55 +0000 2010",
+    "favourites_count": 5198,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 60808,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1329008064649891841/WukQRct6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329008064649891841/WukQRct6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/178175732/1604902881",
+    "profile_link_color": "FF691F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Wed Dec 09 16:28:52 +0000 2020",
+  "Tweet": "meditation + reiki = a natural pre workout before the gym",
+  "UserName": "Richardo Andrew",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 1,
+  "favorited": false
+},{
+  "_id": 1336370175877263400,
+  "id_str": "1336370175877263360",
+  "Truncated": false,
+  "Display_text_range": [
+    13,
+    57
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "domineeeek3",
+        "name": "Neek",
+        "id": 2657717160,
+        "id_str": "2657717160",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "In_reply_to_status_id": 1336369222553747500,
+  "In_reply_to_status_id_str": "1336369222553747456",
+  "In_reply_to_user_id": 2657717160,
+  "In_reply_to_user_id_str": "2657717160",
+  "In_reply_to_screen_name": "domineeeek3",
+  "User": {
+    "id": 3295815494,
+    "id_str": "3295815494",
+    "name": "Nicholas Sparks ☃️",
+    "screen_name": "Ayoosparks_",
+    "location": "El Paso, TX",
+    "description": "Hey there 👋🏽",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 340,
+    "friends_count": 329,
+    "listed_count": 0,
+    "created_at": "Sun Jul 26 18:16:47 +0000 2015",
+    "favourites_count": 4844,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5599,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1306370787700617222/ZRzMjBoQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1306370787700617222/ZRzMjBoQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3295815494/1586216338",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Tue Dec 08 18:00:53 +0000 2020",
+  "Tweet": " the healthiest pre workout on the market tbh",
+  "UserName": "Nicholas Sparks ☃️",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1337557280196239400,
+  "id_str": "1337557280196239366",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    107
+  ],
+  "Entites": {
+    "hashtags": [
+      {
+        "text": "supplements",
+        "indices": [
+          86,
+          98
+        ]
+      },
+      {
+        "text": "medical",
+        "indices": [
+          99,
+          107
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/XRikTo4xfw",
+        "expanded_url": "https://community.bulksupplements.com/3-natural-pre-workout-supplements-to-give-you-an-energy-boost/",
+        "display_url": "community.bulksupplements.com/3-natural-pre-…",
+        "indices": [
+          62,
+          85
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://drumup.io\" rel=\"nofollow\">drumup.io</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 1149495738738434000,
+    "id_str": "1149495738738434049",
+    "name": "Science Connecting",
+    "screen_name": "ScienceConnect2",
+    "location": "",
+    "description": "Science Connecting\nSummaries of the latest science useful in life. Everything from health, fitness, nutrition, productivity, happiness, and creativity.",
+    "url": "https://t.co/uCC8zuPNXf",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/uCC8zuPNXf",
+            "expanded_url": "https://scienceconnecting.com",
+            "display_url": "scienceconnecting.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 16454,
+    "friends_count": 17182,
+    "listed_count": 25,
+    "created_at": "Fri Jul 12 01:48:35 +0000 2019",
+    "favourites_count": 2153,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8354,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1149496710961356800/cekkeDFE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149496710961356800/cekkeDFE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1149495738738434049/1564177698",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Sat Dec 12 00:38:00 +0000 2020",
+  "Tweet": "3 natural preworkout supplements to give you an energy boost https//tco/xrikto4xfw #supplements #medical",
+  "UserName": "Science Connecting",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1337044958910484500,
+  "id_str": "1337044958910484486",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    171
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/ZFND2IYPej",
+        "expanded_url": "https://www.amazon.com/dp/B07NWZJCYG/ref=as_li_ss_tl?tag=jjigs-20",
+        "display_url": "amazon.com/dp/B07NWZJCYG/…",
+        "indices": [
+          148,
+          171
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"http://www.kingkups.com\" rel=\"nofollow\">JasonsJigs Deal Feed</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 202651839,
+    "id_str": "202651839",
+    "name": "Jason’s Jigs",
+    "screen_name": "JasonsJigs",
+    "location": "Miami, FL",
+    "description": "@Flip_Family || @Shop_Mako || @BigBoyProxies   As an Amazon Associate I earn from qualifying purchase. connect@jasonsjigs.co",
+    "url": "https://t.co/wXaUR89sRs",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/wXaUR89sRs",
+            "expanded_url": "http://www.jasonsjigs.com",
+            "display_url": "jasonsjigs.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 28007,
+    "friends_count": 234,
+    "listed_count": 146,
+    "created_at": "Thu Oct 14 14:38:37 +0000 2010",
+    "favourites_count": 242,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 37038,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1194131684867870720/f-bsyk4B_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194131684867870720/f-bsyk4B_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Thu Dec 10 14:42:13 +0000 2020",
+  "Tweet": "56% off tru power shots natural pre workout energy shot with beta alanine and bcaasclip the extra 20% off coupon amp add lightning deal pricehttps//tco/zfnd2iypej",
+  "UserName": "Jason’s Jigs",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1336878311721607200,
+  "id_str": "1336878311721607169",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    85
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/e24Cy4aVr2",
+        "expanded_url": "https://buff.ly/3m1MJ8j",
+        "display_url": "buff.ly/3m1MJ8j",
+        "indices": [
+          62,
+          85
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1336878310060646400,
+        "id_str": "1336878310060646403",
+        "indices": [
+          86,
+          109
+        ],
+        "media_url": "http://pbs.twimg.com/media/Eo2LvWsW4AM1DQi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Eo2LvWsW4AM1DQi.jpg",
+        "url": "https://t.co/URH9otpEga",
+        "display_url": "pic.twitter.com/URH9otpEga",
+        "expanded_url": "https://twitter.com/BulkSupps/status/1336878311721607169/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1532,
+            "h": 1532,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 1191740808,
+    "id_str": "1191740808",
+    "name": "BulkSupplements.com",
+    "screen_name": "BulkSupps",
+    "location": "Nevada",
+    "description": "Hundreds of clean & pure bulk supplements. Great service, unbeatable prices, and nutrition that gives you the results you want.",
+    "url": "http://t.co/SRwv4JniRI",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/SRwv4JniRI",
+            "expanded_url": "http://www.bulksupplements.com",
+            "display_url": "bulksupplements.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 6900,
+    "friends_count": 6759,
+    "listed_count": 15,
+    "created_at": "Mon Feb 18 02:05:20 +0000 2013",
+    "favourites_count": 638,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6294,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1232444482139779073/dzoldEzz_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232444482139779073/dzoldEzz_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1191740808/1573097636",
+    "profile_link_color": "FF691F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Thu Dec 10 03:40:02 +0000 2020",
+  "Tweet": "3 natural preworkout supplements to give you an energy boost https//tco/e24cy4avr2 https//tco/urh9otpega",
+  "UserName": "BulkSupplements.com",
+  "Retweet_Count": 0,
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1336878310060646400,
+        "id_str": "1336878310060646403",
+        "indices": [
+          86,
+          109
+        ],
+        "media_url": "http://pbs.twimg.com/media/Eo2LvWsW4AM1DQi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Eo2LvWsW4AM1DQi.jpg",
+        "url": "https://t.co/URH9otpEga",
+        "display_url": "pic.twitter.com/URH9otpEga",
+        "expanded_url": "https://twitter.com/BulkSupps/status/1336878311721607169/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1532,
+            "h": 1532,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+}]

@@ -1,0 +1,3316 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20202.20.1020.1112                               -->
+<workbook original-version='18.1' source-build='2020.2.7 (20202.20.1020.1112)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='Workout_Collection' inline='true' name='federated.0q3nup91kq9xvb14laox40th3kjp' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Workout_Collection' name='semistructpassivestore-direct.01plnpt1qo4vsx15otqrn1qdg47e'>
+            <connection class='semistructpassivestore-direct' directory='C:/Education/TERM_3/CPSC_4820/Project' filename='Workout_Collection.json' password='' server=''>
+              <semistruct-schemas>
+                <semistruct-schema table='[Workout_Collection.json]'>
+                  <map key='Display_text_range' value='true' />
+                  <map key='Entites' value='true' />
+                  <map key='Entites.hashtags' value='true' />
+                  <map key='Entites.hashtags.Value' value='true' />
+                  <map key='Entites.hashtags.Value.indices' value='true' />
+                  <map key='Entites.media' value='true' />
+                  <map key='Entites.media.Value' value='true' />
+                  <map key='Entites.media.Value.indices' value='true' />
+                  <map key='Entites.media.Value.sizes' value='true' />
+                  <map key='Entites.media.Value.sizes.large' value='true' />
+                  <map key='Entites.media.Value.sizes.medium' value='true' />
+                  <map key='Entites.media.Value.sizes.small' value='true' />
+                  <map key='Entites.media.Value.sizes.thumb' value='true' />
+                  <map key='Entites.urls' value='true' />
+                  <map key='Entites.urls.Value' value='true' />
+                  <map key='Entites.urls.Value.indices' value='true' />
+                  <map key='Entites.user_mentions' value='true' />
+                  <map key='Entites.user_mentions.Value' value='true' />
+                  <map key='Entites.user_mentions.Value.indices' value='true' />
+                  <map key='Metadata' value='true' />
+                  <map key='User' value='true' />
+                  <map key='User.entities' value='true' />
+                  <map key='User.entities.url' value='true' />
+                  <map key='User.entities.url.urls' value='true' />
+                  <map key='User.entities.url.urls.Value' value='true' />
+                  <map key='User.entities.url.urls.Value.indices' value='true' />
+                  <map key='{root}' value='true' />
+                </semistruct-schema>
+              </semistruct-schemas>
+            </connection>
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='semistructpassivestore-direct.01plnpt1qo4vsx15otqrn1qdg47e' name='Workout_Collection.json' table='[Workout_Collection.json]' type='table' />
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='semistructpassivestore-direct.01plnpt1qo4vsx15otqrn1qdg47e' name='Workout_Collection.json' table='[Workout_Collection.json]' type='table' />
+        <cols>
+          <map key='[CreatedDate]' value='[Workout_Collection.json].[CreatedDate]' />
+          <map key='[Display_text_range Index (generated)]' value='[Workout_Collection.json].[Display_text_range.Index (generated)]' />
+          <map key='[Display_text_range]' value='[Workout_Collection.json].[Display_text_range.Value]' />
+          <map key='[Document Index (generated)]' value='[Workout_Collection.json].[Document Index (generated)]' />
+          <map key='[In_reply_to_screen_name]' value='[Workout_Collection.json].[In_reply_to_screen_name]' />
+          <map key='[In_reply_to_status_id]' value='[Workout_Collection.json].[In_reply_to_status_id]' />
+          <map key='[In_reply_to_status_id_str]' value='[Workout_Collection.json].[In_reply_to_status_id_str]' />
+          <map key='[In_reply_to_user_id]' value='[Workout_Collection.json].[In_reply_to_user_id]' />
+          <map key='[In_reply_to_user_id_str]' value='[Workout_Collection.json].[In_reply_to_user_id_str]' />
+          <map key='[Retweet_Count]' value='[Workout_Collection.json].[Retweet_Count]' />
+          <map key='[Source]' value='[Workout_Collection.json].[Source]' />
+          <map key='[Truncated]' value='[Workout_Collection.json].[Truncated]' />
+          <map key='[Tweet]' value='[Workout_Collection.json].[Tweet]' />
+          <map key='[UserName]' value='[Workout_Collection.json].[UserName]' />
+          <map key='[_id]' value='[Workout_Collection.json].[_id]' />
+          <map key='[contributors_enabled]' value='[Workout_Collection.json].[User.contributors_enabled]' />
+          <map key='[created_at]' value='[Workout_Collection.json].[User.created_at]' />
+          <map key='[default_profile]' value='[Workout_Collection.json].[User.default_profile]' />
+          <map key='[default_profile_image]' value='[Workout_Collection.json].[User.default_profile_image]' />
+          <map key='[description]' value='[Workout_Collection.json].[User.description]' />
+          <map key='[display_url (Entites.urls)]' value='[Workout_Collection.json].[Entites.urls.Value.display_url]' />
+          <map key='[display_url (User.entities.url.urls)]' value='[Workout_Collection.json].[User.entities.url.urls.Value.display_url]' />
+          <map key='[expanded_url (Entites.urls)]' value='[Workout_Collection.json].[Entites.urls.Value.expanded_url]' />
+          <map key='[expanded_url (User.entities.url.urls)]' value='[Workout_Collection.json].[User.entities.url.urls.Value.expanded_url]' />
+          <map key='[extended_entities]' value='[Workout_Collection.json].[extended_entities]' />
+          <map key='[favorite_count]' value='[Workout_Collection.json].[favorite_count]' />
+          <map key='[favorited]' value='[Workout_Collection.json].[favorited]' />
+          <map key='[favourites_count]' value='[Workout_Collection.json].[User.favourites_count]' />
+          <map key='[followers_count]' value='[Workout_Collection.json].[User.followers_count]' />
+          <map key='[friends_count]' value='[Workout_Collection.json].[User.friends_count]' />
+          <map key='[geo_enabled]' value='[Workout_Collection.json].[User.geo_enabled]' />
+          <map key='[has_extended_profile]' value='[Workout_Collection.json].[User.has_extended_profile]' />
+          <map key='[hashtags Index (generated)]' value='[Workout_Collection.json].[Entites.hashtags.Index (generated)]' />
+          <map key='[id (Entites.user_mentions)]' value='[Workout_Collection.json].[Entites.user_mentions.Value.id]' />
+          <map key='[id (User)]' value='[Workout_Collection.json].[User.id]' />
+          <map key='[id_str (Entites.user_mentions)]' value='[Workout_Collection.json].[Entites.user_mentions.Value.id_str]' />
+          <map key='[id_str (User)]' value='[Workout_Collection.json].[User.id_str]' />
+          <map key='[id_str]' value='[Workout_Collection.json].[id_str]' />
+          <map key='[indices (Entites.hashtags) Index (generated)]' value='[Workout_Collection.json].[Entites.hashtags.Value.indices.Index (generated)]' />
+          <map key='[indices (Entites.hashtags.indices)]' value='[Workout_Collection.json].[Entites.hashtags.Value.indices.Value]' />
+          <map key='[indices (Entites.urls) Index (generated)]' value='[Workout_Collection.json].[Entites.urls.Value.indices.Index (generated)]' />
+          <map key='[indices (Entites.urls.indices)]' value='[Workout_Collection.json].[Entites.urls.Value.indices.Value]' />
+          <map key='[indices (Entites.user_mentions) Index (generated)]' value='[Workout_Collection.json].[Entites.user_mentions.Value.indices.Index (generated)]' />
+          <map key='[indices (Entites.user_mentions.indices)]' value='[Workout_Collection.json].[Entites.user_mentions.Value.indices.Value]' />
+          <map key='[indices (User.entities.url.urls) Index (generated)]' value='[Workout_Collection.json].[User.entities.url.urls.Value.indices.Index (generated)]' />
+          <map key='[indices (User.entities.url.urls.indices)]' value='[Workout_Collection.json].[User.entities.url.urls.Value.indices.Value]' />
+          <map key='[is_quote_status]' value='[Workout_Collection.json].[is_quote_status]' />
+          <map key='[is_translation_enabled]' value='[Workout_Collection.json].[User.is_translation_enabled]' />
+          <map key='[is_translator]' value='[Workout_Collection.json].[User.is_translator]' />
+          <map key='[iso_language_code]' value='[Workout_Collection.json].[Metadata.iso_language_code]' />
+          <map key='[lang]' value='[Workout_Collection.json].[lang]' />
+          <map key='[listed_count]' value='[Workout_Collection.json].[User.listed_count]' />
+          <map key='[location]' value='[Workout_Collection.json].[User.location]' />
+          <map key='[name (Entites.user_mentions)]' value='[Workout_Collection.json].[Entites.user_mentions.Value.name]' />
+          <map key='[name (User)]' value='[Workout_Collection.json].[User.name]' />
+          <map key='[possibly_sensitive]' value='[Workout_Collection.json].[possibly_sensitive]' />
+          <map key='[profile_background_color]' value='[Workout_Collection.json].[User.profile_background_color]' />
+          <map key='[profile_background_image_url]' value='[Workout_Collection.json].[User.profile_background_image_url]' />
+          <map key='[profile_background_image_url_https]' value='[Workout_Collection.json].[User.profile_background_image_url_https]' />
+          <map key='[profile_background_tile]' value='[Workout_Collection.json].[User.profile_background_tile]' />
+          <map key='[profile_banner_url]' value='[Workout_Collection.json].[User.profile_banner_url]' />
+          <map key='[profile_image_url]' value='[Workout_Collection.json].[User.profile_image_url]' />
+          <map key='[profile_image_url_https]' value='[Workout_Collection.json].[User.profile_image_url_https]' />
+          <map key='[profile_link_color]' value='[Workout_Collection.json].[User.profile_link_color]' />
+          <map key='[profile_sidebar_border_color]' value='[Workout_Collection.json].[User.profile_sidebar_border_color]' />
+          <map key='[profile_sidebar_fill_color]' value='[Workout_Collection.json].[User.profile_sidebar_fill_color]' />
+          <map key='[profile_text_color]' value='[Workout_Collection.json].[User.profile_text_color]' />
+          <map key='[profile_use_background_image]' value='[Workout_Collection.json].[User.profile_use_background_image]' />
+          <map key='[protected]' value='[Workout_Collection.json].[User.protected]' />
+          <map key='[result_type]' value='[Workout_Collection.json].[Metadata.result_type]' />
+          <map key='[retweeted]' value='[Workout_Collection.json].[retweeted]' />
+          <map key='[screen_name (Entites.user_mentions)]' value='[Workout_Collection.json].[Entites.user_mentions.Value.screen_name]' />
+          <map key='[screen_name (User)]' value='[Workout_Collection.json].[User.screen_name]' />
+          <map key='[statuses_count]' value='[Workout_Collection.json].[User.statuses_count]' />
+          <map key='[text]' value='[Workout_Collection.json].[Entites.hashtags.Value.text]' />
+          <map key='[translator_type]' value='[Workout_Collection.json].[User.translator_type]' />
+          <map key='[url (Entites.urls)]' value='[Workout_Collection.json].[Entites.urls.Value.url]' />
+          <map key='[url (User)]' value='[Workout_Collection.json].[User.url]' />
+          <map key='[url (User.entities.url.urls)]' value='[Workout_Collection.json].[User.entities.url.urls.Value.url]' />
+          <map key='[urls (Entites) Index (generated)]' value='[Workout_Collection.json].[Entites.urls.Index (generated)]' />
+          <map key='[urls (User.entities.url) Index (generated)]' value='[Workout_Collection.json].[User.entities.url.urls.Index (generated)]' />
+          <map key='[user_mentions Index (generated)]' value='[Workout_Collection.json].[Entites.user_mentions.Index (generated)]' />
+          <map key='[verified]' value='[Workout_Collection.json].[User.verified]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>Document Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Document Index (generated)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Document Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CreatedDate</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[CreatedDate]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>CreatedDate</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Display_text_range.Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Display_text_range Index (generated)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Display_text_range.Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Display_text_range.Value</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Display_text_range]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Display_text_range.Value</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.hashtags.Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[hashtags Index (generated)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.hashtags.Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.hashtags.Value.indices.Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[indices (Entites.hashtags) Index (generated)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.hashtags.Value.indices.Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.hashtags.Value.indices.Value</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[indices (Entites.hashtags.indices)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.hashtags.Value.indices.Value</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.hashtags.Value.text</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[text]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.hashtags.Value.text</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.urls.Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[urls (Entites) Index (generated)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.urls.Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.urls.Value.display_url</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[display_url (Entites.urls)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.urls.Value.display_url</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.urls.Value.expanded_url</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[expanded_url (Entites.urls)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.urls.Value.expanded_url</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.urls.Value.indices.Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[indices (Entites.urls) Index (generated)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.urls.Value.indices.Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.urls.Value.indices.Value</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[indices (Entites.urls.indices)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.urls.Value.indices.Value</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.urls.Value.url</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[url (Entites.urls)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.urls.Value.url</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.user_mentions.Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[user_mentions Index (generated)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.user_mentions.Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.user_mentions.Value.id</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[id (Entites.user_mentions)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.user_mentions.Value.id</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.user_mentions.Value.id_str</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[id_str (Entites.user_mentions)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.user_mentions.Value.id_str</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.user_mentions.Value.indices.Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[indices (Entites.user_mentions) Index (generated)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.user_mentions.Value.indices.Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.user_mentions.Value.indices.Value</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[indices (Entites.user_mentions.indices)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.user_mentions.Value.indices.Value</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.user_mentions.Value.name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[name (Entites.user_mentions)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.user_mentions.Value.name</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entites.user_mentions.Value.screen_name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[screen_name (Entites.user_mentions)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Entites.user_mentions.Value.screen_name</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>In_reply_to_screen_name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[In_reply_to_screen_name]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>In_reply_to_screen_name</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>In_reply_to_status_id</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[In_reply_to_status_id]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>In_reply_to_status_id</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>In_reply_to_status_id_str</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[In_reply_to_status_id_str]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>In_reply_to_status_id_str</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>In_reply_to_user_id</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[In_reply_to_user_id]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>In_reply_to_user_id</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>In_reply_to_user_id_str</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[In_reply_to_user_id_str]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>In_reply_to_user_id_str</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Metadata.iso_language_code</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[iso_language_code]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Metadata.iso_language_code</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Metadata.result_type</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[result_type]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Metadata.result_type</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Retweet_Count</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Retweet_Count]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Retweet_Count</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Source</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Source]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Source</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Truncated</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[Truncated]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Truncated</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Tweet</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Tweet]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>Tweet</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.contributors_enabled</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[contributors_enabled]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.contributors_enabled</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.created_at</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[created_at]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.created_at</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.default_profile</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[default_profile]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.default_profile</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.default_profile_image</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[default_profile_image]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.default_profile_image</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.description</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[description]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.description</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.entities.url.urls.Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[urls (User.entities.url) Index (generated)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.entities.url.urls.Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.entities.url.urls.Value.display_url</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[display_url (User.entities.url.urls)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.entities.url.urls.Value.display_url</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.entities.url.urls.Value.expanded_url</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[expanded_url (User.entities.url.urls)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.entities.url.urls.Value.expanded_url</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.entities.url.urls.Value.indices.Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[indices (User.entities.url.urls) Index (generated)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.entities.url.urls.Value.indices.Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.entities.url.urls.Value.indices.Value</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[indices (User.entities.url.urls.indices)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.entities.url.urls.Value.indices.Value</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.entities.url.urls.Value.url</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[url (User.entities.url.urls)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.entities.url.urls.Value.url</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.favourites_count</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[favourites_count]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.favourites_count</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.followers_count</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[followers_count]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.followers_count</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.friends_count</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[friends_count]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.friends_count</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.geo_enabled</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[geo_enabled]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.geo_enabled</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.has_extended_profile</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[has_extended_profile]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.has_extended_profile</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.id</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[id (User)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.id</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.id_str</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[id_str (User)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.id_str</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.is_translation_enabled</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[is_translation_enabled]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.is_translation_enabled</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.is_translator</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[is_translator]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.is_translator</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.listed_count</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[listed_count]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.listed_count</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.location</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[location]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.location</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[name (User)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.name</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.profile_background_color</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[profile_background_color]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.profile_background_color</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.profile_background_image_url</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[profile_background_image_url]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.profile_background_image_url</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.profile_background_image_url_https</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[profile_background_image_url_https]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.profile_background_image_url_https</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.profile_background_tile</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[profile_background_tile]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.profile_background_tile</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.profile_banner_url</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[profile_banner_url]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.profile_banner_url</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.profile_image_url</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[profile_image_url]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.profile_image_url</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.profile_image_url_https</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[profile_image_url_https]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.profile_image_url_https</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.profile_link_color</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[profile_link_color]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.profile_link_color</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.profile_sidebar_border_color</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[profile_sidebar_border_color]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.profile_sidebar_border_color</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.profile_sidebar_fill_color</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[profile_sidebar_fill_color]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.profile_sidebar_fill_color</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.profile_text_color</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[profile_text_color]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.profile_text_color</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.profile_use_background_image</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[profile_use_background_image]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.profile_use_background_image</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.protected</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[protected]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.protected</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.screen_name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[screen_name (User)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.screen_name</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.statuses_count</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[statuses_count]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.statuses_count</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.translator_type</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[translator_type]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.translator_type</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.url</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[url (User)]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.url</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>User.verified</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[verified]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>User.verified</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>UserName</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[UserName]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>UserName</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>_id</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[_id]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>_id</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>extended_entities</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[extended_entities]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>extended_entities</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>favorite_count</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[favorite_count]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>favorite_count</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>favorited</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[favorited]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>favorited</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>id_str</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[id_str]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>id_str</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>is_quote_status</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[is_quote_status]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>is_quote_status</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>lang</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[lang]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>lang</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>possibly_sensitive</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[possibly_sensitive]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>possibly_sensitive</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>retweeted</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[retweeted]</local-name>
+            <parent-name>[Workout_Collection.json]</parent-name>
+            <remote-alias>retweeted</remote-alias>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Date' datatype='datetime' name='[Calculation_110901198041427968]' role='dimension' type='ordinal'>
+        <calculation class='tableau' formula='DATEPARSE(&quot;EEE MMM dd HH:mm:ss +0000 yyyy&quot;,[CreatedDate])' />
+      </column>
+      <column caption='DayOfDate' datatype='string' name='[Calculation_110901198041538561]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='SPLIT([CreatedDate],&apos; &apos;,1)' />
+      </column>
+      <column caption='TimesOfDay' datatype='string' name='[Calculation_110901198041624578]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF DATEPART(&apos;hour&apos;,[Calculation_110901198041427968])   &lt;12 THEN &apos;Morning&apos;&#13;&#10;ELSEIF DATEPART(&apos;hour&apos;,[Calculation_110901198041427968])  &lt;18 THEN &apos;Afternoon&apos;&#13;&#10;ELSE &apos;Evening&apos;&#13;&#10;END' />
+      </column>
+      <column caption='Created Date' datatype='string' name='[CreatedDate]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>CreatedDate</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[Display text range per Display text range]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[Display_text_range Index (generated)] : MAX([Display_text_range]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at Display_text_range level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' caption='Display text range Index (generated)' datatype='integer' name='[Display_text_range Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Display_text_range.Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Display text range' datatype='real' name='[Display_text_range]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>Display_text_range.Value</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' datatype='integer' name='[Document Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Document Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[Extended Entities per Document]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)] : MAX([extended_entities]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at Document level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[Favorite Count per Document]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)] : MAX([favorite_count]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at Document level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[Favourites Count per User]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)] : MAX([favourites_count]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at User level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[Followers Count per User]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)] : MAX([followers_count]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at User level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[Friends Count per User]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)] : MAX([friends_count]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at User level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='In reply to screen name' datatype='string' name='[In_reply_to_screen_name]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>In_reply_to_screen_name</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' caption='In reply to status id' datatype='real' name='[In_reply_to_status_id]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>In_reply_to_status_id</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='In reply to status id str' datatype='string' name='[In_reply_to_status_id_str]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>In_reply_to_status_id_str</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' caption='In reply to user id' datatype='real' name='[In_reply_to_user_id]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>In_reply_to_user_id</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='In reply to user id str' datatype='string' name='[In_reply_to_user_id_str]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>In_reply_to_user_id_str</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[Listed Count per User]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)] : MAX([listed_count]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at User level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per Display text range]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ INCLUDE [Document Index (generated)] : COUNTD([Display_text_range Index (generated)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at Display_text_range level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per Workout_Collection.json]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='COUNTD([Document Index (generated)])' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at Workout_Collection.json level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per hashtags]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ INCLUDE [Document Index (generated)] : COUNTD([hashtags Index (generated)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at hashtags level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per indices (Entites.hashtags)]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ INCLUDE [Document Index (generated)],[hashtags Index (generated)] : COUNTD([indices (Entites.hashtags) Index (generated)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at indices (Entites.hashtags) level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per indices (Entites.media)]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ INCLUDE [Document Index (generated)],[media Index (generated)] : COUNTD([indices (Entites.media) Index (generated)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at indices (Entites.media) level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per indices (Entites.urls)]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ INCLUDE [Document Index (generated)],[urls (Entites) Index (generated)] : COUNTD([indices (Entites.urls) Index (generated)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at indices (Entites.urls) level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per indices (Entites.user mentions)]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ INCLUDE [Document Index (generated)],[user_mentions Index (generated)] : COUNTD([indices (Entites.user_mentions) Index (generated)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at indices (Entites.user_mentions) level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per indices (User.entities.url.urls)]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ INCLUDE [Document Index (generated)],[urls (User.entities.url) Index (generated)] : COUNTD([indices (User.entities.url.urls) Index (generated)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at indices (User.entities.url.urls) level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per media]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ INCLUDE [Document Index (generated)] : COUNTD([media Index (generated)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at media level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per urls (Entites)]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ INCLUDE [Document Index (generated)] : COUNTD([urls (Entites) Index (generated)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at urls (Entites) level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per urls (User.entities.url)]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ INCLUDE [Document Index (generated)] : COUNTD([urls (User.entities.url) Index (generated)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at urls (User.entities.url) level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per user mentions]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ INCLUDE [Document Index (generated)] : COUNTD([user_mentions Index (generated)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at user_mentions level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[Retweet Count per Document]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)] : MAX([Retweet_Count]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at Document level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Retweet Count' datatype='real' name='[Retweet_Count]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>Retweet_Count</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='string' name='[Source]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Source</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[Statuses Count per User]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)] : MAX([statuses_count]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at User level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='boolean' name='[Truncated]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Truncated</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='string' name='[Tweet]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Tweet</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='User Name' datatype='string' name='[UserName]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>UserName</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <_.fcp.ObjectModelTableType.true...column caption='Workout_Collection.json' datatype='table' name='[__tableau_internal_object_id__].[Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72]' role='measure' type='quantitative' />
+      <column aggregation='Sum' caption='_Id' datatype='real' name='[_id]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>_id</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Contributors Enabled' datatype='boolean' name='[contributors_enabled]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.contributors_enabled</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Created At' datatype='string' name='[created_at]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.created_at</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Default Profile' datatype='boolean' name='[default_profile]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.default_profile</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Default Profile Image' datatype='boolean' name='[default_profile_image]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.default_profile_image</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Description' datatype='string' name='[description]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.description</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='display url (Entites.urls)' datatype='string' name='[display_url (Entites.urls)]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.urls.Value.display_url</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='display url (User.entities.url.urls)' datatype='string' name='[display_url (User.entities.url.urls)]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.entities.url.urls.Value.display_url</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='expanded url (Entites.urls)' datatype='string' name='[expanded_url (Entites.urls)]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.urls.Value.expanded_url</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='expanded url (User.entities.url.urls)' datatype='string' name='[expanded_url (User.entities.url.urls)]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.entities.url.urls.Value.expanded_url</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Extended Entities' datatype='real' name='[extended_entities]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>extended_entities</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Favorite Count' datatype='real' name='[favorite_count]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>favorite_count</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Favorited' datatype='boolean' name='[favorited]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>favorited</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Favourites Count' datatype='real' name='[favourites_count]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>User.favourites_count</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Followers Count' datatype='real' name='[followers_count]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>User.followers_count</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Friends Count' datatype='real' name='[friends_count]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>User.friends_count</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Geo Enabled' datatype='boolean' name='[geo_enabled]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.geo_enabled</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[h per Entites.media.sizes.large]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[media Index (generated)] : MAX([h (Entites.media.sizes.large)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at large level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[h per Entites.media.sizes.medium]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[media Index (generated)] : MAX([h (Entites.media.sizes.medium)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at medium level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[h per Entites.media.sizes.small]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[media Index (generated)] : MAX([h (Entites.media.sizes.small)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at small level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[h per Entites.media.sizes.thumb]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[media Index (generated)] : MAX([h (Entites.media.sizes.thumb)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at thumb level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Has Extended Profile' datatype='boolean' name='[has_extended_profile]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.has_extended_profile</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' datatype='integer' name='[hashtags Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.hashtags.Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' caption='id (Entites.user mentions)' datatype='real' name='[id (Entites.user_mentions)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.user_mentions.Value.id</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' datatype='real' name='[id (User)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>User.id</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='id str (Entites.user mentions)' datatype='string' name='[id_str (Entites.user_mentions)]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.user_mentions.Value.id_str</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='id str (User)' datatype='string' name='[id_str (User)]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.id_str</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Id Str' datatype='string' name='[id_str]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>id_str</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' datatype='integer' name='[indices (Entites.hashtags) Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.hashtags.Value.indices.Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[indices (Entites.hashtags.indices) per indices]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[indices (Entites.hashtags) Index (generated)],[hashtags Index (generated)] : MAX([indices (Entites.hashtags.indices)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at indices level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' name='[indices (Entites.hashtags.indices)]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>Entites.hashtags.Value.indices.Value</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[indices (Entites.media.indices) per indices]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[indices (Entites.media) Index (generated)],[media Index (generated)] : MAX([indices (Entites.media.indices)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at indices level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' datatype='integer' name='[indices (Entites.urls) Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.urls.Value.indices.Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[indices (Entites.urls.indices) per indices]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[indices (Entites.urls) Index (generated)],[urls (Entites) Index (generated)] : MAX([indices (Entites.urls.indices)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at indices level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' name='[indices (Entites.urls.indices)]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>Entites.urls.Value.indices.Value</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[indices (Entites.user mentions.indices) per indices]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[indices (Entites.user_mentions) Index (generated)],[user_mentions Index (generated)] : MAX([indices (Entites.user_mentions.indices)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at indices level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' caption='indices (Entites.user mentions) Index (generated)' datatype='integer' name='[indices (Entites.user_mentions) Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.user_mentions.Value.indices.Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='indices (Entites.user mentions.indices)' datatype='real' name='[indices (Entites.user_mentions.indices)]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>Entites.user_mentions.Value.indices.Value</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' datatype='integer' name='[indices (User.entities.url.urls) Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>User.entities.url.urls.Value.indices.Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[indices (User.entities.url.urls.indices) per indices]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[indices (User.entities.url.urls) Index (generated)],[urls (User.entities.url) Index (generated)] : MAX([indices (User.entities.url.urls.indices)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at indices level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' name='[indices (User.entities.url.urls.indices)]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>User.entities.url.urls.Value.indices.Value</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Is Quote Status' datatype='boolean' name='[is_quote_status]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>is_quote_status</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Is Translation Enabled' datatype='boolean' name='[is_translation_enabled]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.is_translation_enabled</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Is Translator' datatype='boolean' name='[is_translator]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.is_translator</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Iso Language Code' datatype='string' name='[iso_language_code]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Metadata.iso_language_code</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Lang' datatype='string' name='[lang]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>lang</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Listed Count' datatype='real' name='[listed_count]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>User.listed_count</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Location' datatype='string' name='[location]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.location</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='name (Entites.user mentions)' datatype='string' name='[name (Entites.user_mentions)]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.user_mentions.Value.name</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='string' name='[name (User)]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.name</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Possibly Sensitive' datatype='boolean' name='[possibly_sensitive]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>possibly_sensitive</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Profile Background Color' datatype='string' name='[profile_background_color]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.profile_background_color</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Profile Background Image Url' datatype='string' name='[profile_background_image_url]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.profile_background_image_url</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Profile Background Image Url Https' datatype='string' name='[profile_background_image_url_https]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.profile_background_image_url_https</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Profile Background Tile' datatype='boolean' name='[profile_background_tile]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.profile_background_tile</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Profile Banner Url' datatype='string' name='[profile_banner_url]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.profile_banner_url</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Profile Image Url' datatype='string' name='[profile_image_url]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.profile_image_url</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Profile Image Url Https' datatype='string' name='[profile_image_url_https]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.profile_image_url_https</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Profile Link Color' datatype='string' name='[profile_link_color]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.profile_link_color</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Profile Sidebar Border Color' datatype='string' name='[profile_sidebar_border_color]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.profile_sidebar_border_color</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Profile Sidebar Fill Color' datatype='string' name='[profile_sidebar_fill_color]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.profile_sidebar_fill_color</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Profile Text Color' datatype='string' name='[profile_text_color]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.profile_text_color</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Profile Use Background Image' datatype='boolean' name='[profile_use_background_image]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.profile_use_background_image</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Protected' datatype='boolean' name='[protected]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.protected</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Result Type' datatype='string' name='[result_type]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Metadata.result_type</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Retweeted' datatype='boolean' name='[retweeted]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>retweeted</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='screen name (Entites.user mentions)' datatype='string' name='[screen_name (Entites.user_mentions)]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.user_mentions.Value.screen_name</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='screen name (User)' datatype='string' name='[screen_name (User)]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.screen_name</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Statuses Count' datatype='real' name='[statuses_count]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>User.statuses_count</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Text' datatype='string' name='[text]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.hashtags.Value.text</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Translator Type' datatype='string' name='[translator_type]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.translator_type</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='string' name='[url (Entites.urls)]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.urls.Value.url</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='string' name='[url (User)]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.url</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='string' name='[url (User.entities.url.urls)]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.entities.url.urls.Value.url</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' datatype='integer' name='[urls (Entites) Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.urls.Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' datatype='integer' name='[urls (User.entities.url) Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>User.entities.url.urls.Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' caption='user mentions Index (generated)' datatype='integer' name='[user_mentions Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Entites.user_mentions.Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Verified' datatype='boolean' name='[verified]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>User.verified</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[w per Entites.media.sizes.large]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[media Index (generated)] : MAX([w (Entites.media.sizes.large)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at large level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[w per Entites.media.sizes.medium]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[media Index (generated)] : MAX([w (Entites.media.sizes.medium)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at medium level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[w per Entites.media.sizes.small]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[media Index (generated)] : MAX([w (Entites.media.sizes.small)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at small level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='real' is-auto-gen-lod-field='true' name='[w per Entites.media.sizes.thumb]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{ FIXED [Document Index (generated)],[media Index (generated)] : MAX([w (Entites.media.sizes.thumb)]) }' />
+        <desc>
+          <formatted-text>
+            <run>A calculated measure that is at thumb level of detail</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <_.fcp.SchemaViewerObjectModel.false...folder name='Hashtags' role='dimensions'>
+        <folder-item name='[hashtags Index (generated)]' type='field' />
+        <folder-item name='[indices (Entites.hashtags) Index (generated)]' type='field' />
+        <folder-item name='[text]' type='field' />
+      </_.fcp.SchemaViewerObjectModel.false...folder>
+      <_.fcp.SchemaViewerObjectModel.false...folder name='Metadata' role='dimensions'>
+        <folder-item name='[iso_language_code]' type='field' />
+        <folder-item name='[result_type]' type='field' />
+      </_.fcp.SchemaViewerObjectModel.false...folder>
+      <_.fcp.SchemaViewerObjectModel.false...folder name='Source Measures' role='measures'>
+        <folder-item name='[Display_text_range]' type='field' />
+        <folder-item name='[Retweet_Count]' type='field' />
+        <folder-item name='[extended_entities]' type='field' />
+        <folder-item name='[favorite_count]' type='field' />
+        <folder-item name='[favourites_count]' type='field' />
+        <folder-item name='[followers_count]' type='field' />
+        <folder-item name='[friends_count]' type='field' />
+        <folder-item name='[indices (Entites.hashtags.indices)]' type='field' />
+        <folder-item name='[indices (Entites.urls.indices)]' type='field' />
+        <folder-item name='[indices (Entites.user_mentions.indices)]' type='field' />
+        <folder-item name='[indices (User.entities.url.urls.indices)]' type='field' />
+        <folder-item name='[listed_count]' type='field' />
+        <folder-item name='[statuses_count]' type='field' />
+      </_.fcp.SchemaViewerObjectModel.false...folder>
+      <_.fcp.SchemaViewerObjectModel.false...folder name='User' role='dimensions'>
+        <folder-item name='[contributors_enabled]' type='field' />
+        <folder-item name='[created_at]' type='field' />
+        <folder-item name='[default_profile]' type='field' />
+        <folder-item name='[default_profile_image]' type='field' />
+        <folder-item name='[description]' type='field' />
+        <folder-item name='[geo_enabled]' type='field' />
+        <folder-item name='[has_extended_profile]' type='field' />
+        <folder-item name='[id (User)]' type='field' />
+        <folder-item name='[id_str (User)]' type='field' />
+        <folder-item name='[is_translation_enabled]' type='field' />
+        <folder-item name='[is_translator]' type='field' />
+        <folder-item name='[location]' type='field' />
+        <folder-item name='[name (User)]' type='field' />
+        <folder-item name='[profile_background_color]' type='field' />
+        <folder-item name='[profile_background_image_url]' type='field' />
+        <folder-item name='[profile_background_image_url_https]' type='field' />
+        <folder-item name='[profile_background_tile]' type='field' />
+        <folder-item name='[profile_banner_url]' type='field' />
+        <folder-item name='[profile_image_url]' type='field' />
+        <folder-item name='[profile_image_url_https]' type='field' />
+        <folder-item name='[profile_link_color]' type='field' />
+        <folder-item name='[profile_sidebar_border_color]' type='field' />
+        <folder-item name='[profile_sidebar_fill_color]' type='field' />
+        <folder-item name='[profile_text_color]' type='field' />
+        <folder-item name='[profile_use_background_image]' type='field' />
+        <folder-item name='[protected]' type='field' />
+        <folder-item name='[screen_name (User)]' type='field' />
+        <folder-item name='[translator_type]' type='field' />
+        <folder-item name='[url (User)]' type='field' />
+        <folder-item name='[verified]' type='field' />
+      </_.fcp.SchemaViewerObjectModel.false...folder>
+      <_.fcp.SchemaViewerObjectModel.false...folder name='User Mentions' role='dimensions'>
+        <folder-item name='[id (Entites.user_mentions)]' type='field' />
+        <folder-item name='[id_str (Entites.user_mentions)]' type='field' />
+        <folder-item name='[indices (Entites.user_mentions) Index (generated)]' type='field' />
+        <folder-item name='[name (Entites.user_mentions)]' type='field' />
+        <folder-item name='[screen_name (Entites.user_mentions)]' type='field' />
+        <folder-item name='[user_mentions Index (generated)]' type='field' />
+      </_.fcp.SchemaViewerObjectModel.false...folder>
+      <_.fcp.SchemaViewerObjectModel.false...folder name='Workout Collection' role='dimensions'>
+        <folder-item name='[CreatedDate]' type='field' />
+        <folder-item name='[Display_text_range Index (generated)]' type='field' />
+        <folder-item name='[Document Index (generated)]' type='field' />
+        <folder-item name='[In_reply_to_screen_name]' type='field' />
+        <folder-item name='[In_reply_to_status_id]' type='field' />
+        <folder-item name='[In_reply_to_status_id_str]' type='field' />
+        <folder-item name='[In_reply_to_user_id]' type='field' />
+        <folder-item name='[In_reply_to_user_id_str]' type='field' />
+        <folder-item name='[Source]' type='field' />
+        <folder-item name='[Truncated]' type='field' />
+        <folder-item name='[Tweet]' type='field' />
+        <folder-item name='[UserName]' type='field' />
+        <folder-item name='[_id]' type='field' />
+        <folder-item name='[favorited]' type='field' />
+        <folder-item name='[id_str]' type='field' />
+        <folder-item name='[is_quote_status]' type='field' />
+        <folder-item name='[lang]' type='field' />
+        <folder-item name='[possibly_sensitive]' type='field' />
+        <folder-item name='[retweeted]' type='field' />
+      </_.fcp.SchemaViewerObjectModel.false...folder>
+      <_.fcp.SchemaViewerObjectModel.false...folder name='urls (Entites)' role='dimensions'>
+        <folder-item name='[display_url (Entites.urls)]' type='field' />
+        <folder-item name='[expanded_url (Entites.urls)]' type='field' />
+        <folder-item name='[indices (Entites.urls) Index (generated)]' type='field' />
+        <folder-item name='[url (Entites.urls)]' type='field' />
+        <folder-item name='[urls (Entites) Index (generated)]' type='field' />
+      </_.fcp.SchemaViewerObjectModel.false...folder>
+      <_.fcp.SchemaViewerObjectModel.false...folder name='urls (User.entities.url)' role='dimensions'>
+        <folder-item name='[display_url (User.entities.url.urls)]' type='field' />
+        <folder-item name='[expanded_url (User.entities.url.urls)]' type='field' />
+        <folder-item name='[indices (User.entities.url.urls) Index (generated)]' type='field' />
+        <folder-item name='[url (User.entities.url.urls)]' type='field' />
+        <folder-item name='[urls (User.entities.url) Index (generated)]' type='field' />
+      </_.fcp.SchemaViewerObjectModel.false...folder>
+      <_.fcp.SchemaViewerObjectModel.true...folders-common>
+        <folder name='Hashtags'>
+          <folder-item name='[hashtags Index (generated)]' type='field' />
+          <folder-item name='[indices (Entites.hashtags) Index (generated)]' type='field' />
+          <folder-item name='[text]' type='field' />
+        </folder>
+        <folder name='Large'>
+          <folder-item name='[resize (Entites.media.sizes.large)]' type='field' />
+        </folder>
+        <folder name='Media'>
+          <folder-item name='[display_url (Entites.media)]' type='field' />
+          <folder-item name='[expanded_url (Entites.media)]' type='field' />
+          <folder-item name='[id (Entites.media)]' type='field' />
+          <folder-item name='[id_str (Entites.media)]' type='field' />
+          <folder-item name='[indices (Entites.media) Index (generated)]' type='field' />
+          <folder-item name='[media Index (generated)]' type='field' />
+          <folder-item name='[media_url]' type='field' />
+          <folder-item name='[media_url_https]' type='field' />
+          <folder-item name='[type]' type='field' />
+          <folder-item name='[url (Entites.media)]' type='field' />
+        </folder>
+        <folder name='Medium'>
+          <folder-item name='[resize (Entites.media.sizes.medium)]' type='field' />
+        </folder>
+        <folder name='Metadata'>
+          <folder-item name='[iso_language_code]' type='field' />
+          <folder-item name='[result_type]' type='field' />
+        </folder>
+        <folder name='Small'>
+          <folder-item name='[resize (Entites.media.sizes.small)]' type='field' />
+        </folder>
+        <folder name='Source Measures'>
+          <folder-item name='[Display_text_range]' type='field' />
+          <folder-item name='[Retweet_Count]' type='field' />
+          <folder-item name='[extended_entities]' type='field' />
+          <folder-item name='[favorite_count]' type='field' />
+          <folder-item name='[favourites_count]' type='field' />
+          <folder-item name='[followers_count]' type='field' />
+          <folder-item name='[friends_count]' type='field' />
+          <folder-item name='[indices (Entites.hashtags.indices)]' type='field' />
+          <folder-item name='[indices (Entites.urls.indices)]' type='field' />
+          <folder-item name='[indices (Entites.user_mentions.indices)]' type='field' />
+          <folder-item name='[indices (User.entities.url.urls.indices)]' type='field' />
+          <folder-item name='[listed_count]' type='field' />
+          <folder-item name='[statuses_count]' type='field' />
+        </folder>
+        <folder name='Thumb'>
+          <folder-item name='[resize (Entites.media.sizes.thumb)]' type='field' />
+        </folder>
+        <folder name='User'>
+          <folder-item name='[contributors_enabled]' type='field' />
+          <folder-item name='[created_at]' type='field' />
+          <folder-item name='[default_profile]' type='field' />
+          <folder-item name='[default_profile_image]' type='field' />
+          <folder-item name='[description]' type='field' />
+          <folder-item name='[geo_enabled]' type='field' />
+          <folder-item name='[has_extended_profile]' type='field' />
+          <folder-item name='[id (User)]' type='field' />
+          <folder-item name='[id_str (User)]' type='field' />
+          <folder-item name='[is_translation_enabled]' type='field' />
+          <folder-item name='[is_translator]' type='field' />
+          <folder-item name='[location]' type='field' />
+          <folder-item name='[name (User)]' type='field' />
+          <folder-item name='[profile_background_color]' type='field' />
+          <folder-item name='[profile_background_image_url]' type='field' />
+          <folder-item name='[profile_background_image_url_https]' type='field' />
+          <folder-item name='[profile_background_tile]' type='field' />
+          <folder-item name='[profile_banner_url]' type='field' />
+          <folder-item name='[profile_image_url]' type='field' />
+          <folder-item name='[profile_image_url_https]' type='field' />
+          <folder-item name='[profile_link_color]' type='field' />
+          <folder-item name='[profile_sidebar_border_color]' type='field' />
+          <folder-item name='[profile_sidebar_fill_color]' type='field' />
+          <folder-item name='[profile_text_color]' type='field' />
+          <folder-item name='[profile_use_background_image]' type='field' />
+          <folder-item name='[protected]' type='field' />
+          <folder-item name='[screen_name (User)]' type='field' />
+          <folder-item name='[translator_type]' type='field' />
+          <folder-item name='[url (User)]' type='field' />
+          <folder-item name='[verified]' type='field' />
+        </folder>
+        <folder name='User Mentions'>
+          <folder-item name='[id (Entites.user_mentions)]' type='field' />
+          <folder-item name='[id_str (Entites.user_mentions)]' type='field' />
+          <folder-item name='[indices (Entites.user_mentions) Index (generated)]' type='field' />
+          <folder-item name='[name (Entites.user_mentions)]' type='field' />
+          <folder-item name='[screen_name (Entites.user_mentions)]' type='field' />
+          <folder-item name='[user_mentions Index (generated)]' type='field' />
+        </folder>
+        <folder name='Workout Collection'>
+          <folder-item name='[CreatedDate]' type='field' />
+          <folder-item name='[Display_text_range Index (generated)]' type='field' />
+          <folder-item name='[Document Index (generated)]' type='field' />
+          <folder-item name='[In_reply_to_screen_name]' type='field' />
+          <folder-item name='[In_reply_to_status_id]' type='field' />
+          <folder-item name='[In_reply_to_status_id_str]' type='field' />
+          <folder-item name='[In_reply_to_user_id]' type='field' />
+          <folder-item name='[In_reply_to_user_id_str]' type='field' />
+          <folder-item name='[Source]' type='field' />
+          <folder-item name='[Truncated]' type='field' />
+          <folder-item name='[Tweet]' type='field' />
+          <folder-item name='[UserName]' type='field' />
+          <folder-item name='[_id]' type='field' />
+          <folder-item name='[favorited]' type='field' />
+          <folder-item name='[id_str]' type='field' />
+          <folder-item name='[is_quote_status]' type='field' />
+          <folder-item name='[lang]' type='field' />
+          <folder-item name='[possibly_sensitive]' type='field' />
+          <folder-item name='[retweeted]' type='field' />
+        </folder>
+        <folder name='urls (Entites)'>
+          <folder-item name='[display_url (Entites.urls)]' type='field' />
+          <folder-item name='[expanded_url (Entites.urls)]' type='field' />
+          <folder-item name='[indices (Entites.urls) Index (generated)]' type='field' />
+          <folder-item name='[url (Entites.urls)]' type='field' />
+          <folder-item name='[urls (Entites) Index (generated)]' type='field' />
+        </folder>
+        <folder name='urls (User.entities.url)'>
+          <folder-item name='[display_url (User.entities.url.urls)]' type='field' />
+          <folder-item name='[expanded_url (User.entities.url.urls)]' type='field' />
+          <folder-item name='[indices (User.entities.url.urls) Index (generated)]' type='field' />
+          <folder-item name='[url (User.entities.url.urls)]' type='field' />
+          <folder-item name='[urls (User.entities.url) Index (generated)]' type='field' />
+        </folder>
+      </_.fcp.SchemaViewerObjectModel.true...folders-common>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='false' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;New Zealand&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Workout_Collection.json' id='Workout_Collection.json_4FCE4FC49F3242F49CFCFE9DDB1FBE72'>
+            <properties context=''>
+              <relation connection='semistructpassivestore-direct.01plnpt1qo4vsx15otqrn1qdg47e' name='Workout_Collection.json' table='[Workout_Collection.json]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+    <datasource caption='Sentiment_Collection' inline='true' name='federated.192qc4y0sfp4l119879go196erd1' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Sentiment_Collection' name='semistructpassivestore-direct.0cupsnq087gid81d5bm9z1jr52e8'>
+            <connection class='semistructpassivestore-direct' directory='C:/Education/TERM_3/CPSC_4820/Project' filename='Sentiment_Collection.json' password='' server=''>
+              <semistruct-schemas>
+                <semistruct-schema table='[Sentiment_Collection.json]'>
+                  <map key='{root}' value='true' />
+                </semistruct-schema>
+              </semistruct-schemas>
+            </connection>
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='semistructpassivestore-direct.0cupsnq087gid81d5bm9z1jr52e8' name='Sentiment_Collection.json' table='[Sentiment_Collection.json]' type='table' />
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='semistructpassivestore-direct.0cupsnq087gid81d5bm9z1jr52e8' name='Sentiment_Collection.json' table='[Sentiment_Collection.json]' type='table' />
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>Document Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Document Index (generated)]</local-name>
+            <parent-name>[Sentiment_Collection.json]</parent-name>
+            <remote-alias>Document Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sentiment</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Sentiment]</local-name>
+            <parent-name>[Sentiment_Collection.json]</parent-name>
+            <remote-alias>Sentiment</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>_id</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[_id]</local-name>
+            <parent-name>[Sentiment_Collection.json]</parent-name>
+            <remote-alias>_id</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column aggregation='Sum' datatype='integer' name='[Document Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Document Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='string' name='[Sentiment]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Sentiment</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <_.fcp.ObjectModelTableType.true...column caption='Sentiment_Collection.json' datatype='table' name='[__tableau_internal_object_id__].[Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7]' role='measure' type='quantitative' />
+      <column aggregation='Sum' caption='_Id' datatype='real' name='[_id]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>_id</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column-instance column='[Sentiment]' derivation='None' name='[none:Sentiment:nk]' pivot='key' type='nominal' />
+      <_.fcp.SchemaViewerObjectModel.false...folder name='Sentiment Collection' role='dimensions'>
+        <folder-item name='[Document Index (generated)]' type='field' />
+        <folder-item name='[Sentiment]' type='field' />
+        <folder-item name='[_id]' type='field' />
+      </_.fcp.SchemaViewerObjectModel.false...folder>
+      <_.fcp.SchemaViewerObjectModel.true...folders-common>
+        <folder name='Sentiment Collection'>
+          <folder-item name='[Document Index (generated)]' type='field' />
+          <folder-item name='[Sentiment]' type='field' />
+          <folder-item name='[_id]' type='field' />
+        </folder>
+      </_.fcp.SchemaViewerObjectModel.true...folders-common>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='false' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Sentiment:nk]' type='palette'>
+            <map to='#2a5783'>
+              <bucket>&quot;pos&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;New Zealand&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Sentiment_Collection.json' id='Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7'>
+            <properties context=''>
+              <relation connection='semistructpassivestore-direct.0cupsnq087gid81d5bm9z1jr52e8' name='Sentiment_Collection.json' table='[Sentiment_Collection.json]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='HashtagWithSentiment-Bubble'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Workout_Collection' name='federated.0q3nup91kq9xvb14laox40th3kjp' />
+            <datasource caption='Sentiment_Collection' name='federated.192qc4y0sfp4l119879go196erd1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0q3nup91kq9xvb14laox40th3kjp'>
+            <column-instance column='[text]' derivation='None' name='[none:text:nk]' pivot='key' type='nominal' />
+            <column caption='Text' datatype='string' name='[text]' role='dimension' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>Entites.hashtags.Value.text</run>
+                </formatted-text>
+              </desc>
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.192qc4y0sfp4l119879go196erd1'>
+            <_.fcp.ObjectModelTableType.false...column caption='Sentiment_Collection.json' datatype='integer' name='[__tableau_internal_object_id__].[Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Sentiment]' role='dimension' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>Sentiment</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <_.fcp.ObjectModelTableType.true...column caption='Sentiment_Collection.json' datatype='table' name='[__tableau_internal_object_id__].[Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7:qk]' pivot='key' type='quantitative' />
+            <column aggregation='Sum' caption='_Id' datatype='real' name='[_id]' role='dimension' type='ordinal'>
+              <desc>
+                <formatted-text>
+                  <run>_id</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[Sentiment]' derivation='None' name='[none:Sentiment:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0q3nup91kq9xvb14laox40th3kjp].[none:text:nk]'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:text:nk]' />
+              <groupfilter function='member' level='[none:text:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0q3nup91kq9xvb14laox40th3kjp].[none:text:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Circle' />
+            <encodings>
+              <size column='[federated.192qc4y0sfp4l119879go196erd1].[__tableau_internal_object_id__].[cnt:Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7:qk]' />
+              <text column='[federated.0q3nup91kq9xvb14laox40th3kjp].[none:text:nk]' />
+              <color column='[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-line-first' value='true' />
+                <format attr='mark-labels-line-last' value='true' />
+                <format attr='mark-labels-range-min' value='true' />
+                <format attr='mark-labels-range-max' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-range-scope' value='pane' />
+                <format attr='mark-labels-range-field' value='' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+        <join-lod-include-overrides>
+          <column>[federated.192qc4y0sfp4l119879go196erd1].[_id]</column>
+        </join-lod-include-overrides>
+      </table>
+      <simple-id uuid='{29BD1984-BC6A-4D50-9BC5-D9F14B439E0B}' />
+    </worksheet>
+    <worksheet name='Sheet 5'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Workout_Collection' name='federated.0q3nup91kq9xvb14laox40th3kjp' />
+            <datasource caption='Sentiment_Collection' name='federated.192qc4y0sfp4l119879go196erd1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0q3nup91kq9xvb14laox40th3kjp'>
+            <column-instance column='[text]' derivation='None' name='[none:text:nk]' pivot='key' type='nominal' />
+            <column caption='Text' datatype='string' name='[text]' role='dimension' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>Entites.hashtags.Value.text</run>
+                </formatted-text>
+              </desc>
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.192qc4y0sfp4l119879go196erd1'>
+            <_.fcp.ObjectModelTableType.false...column caption='Sentiment_Collection.json' datatype='integer' name='[__tableau_internal_object_id__].[Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Sentiment]' role='dimension' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>Sentiment</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <_.fcp.ObjectModelTableType.true...column caption='Sentiment_Collection.json' datatype='table' name='[__tableau_internal_object_id__].[Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7:qk]' pivot='key' type='quantitative' />
+            <column aggregation='Sum' caption='_Id' datatype='real' name='[_id]' role='dimension' type='ordinal'>
+              <desc>
+                <formatted-text>
+                  <run>_id</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[Sentiment]' derivation='None' name='[none:Sentiment:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='on' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <size column='[federated.192qc4y0sfp4l119879go196erd1].[__tableau_internal_object_id__].[cnt:Sentiment_Collection.json_2856643E4B3F4F39BF992C610F241CD7:qk]' />
+              <text column='[federated.0q3nup91kq9xvb14laox40th3kjp].[none:text:nk]' />
+              <color column='[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-line-first' value='true' />
+                <format attr='mark-labels-line-last' value='true' />
+                <format attr='mark-labels-range-min' value='true' />
+                <format attr='mark-labels-range-max' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-range-scope' value='pane' />
+                <format attr='mark-labels-range-field' value='' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+        <join-lod-include-overrides>
+          <column>[federated.192qc4y0sfp4l119879go196erd1].[_id]</column>
+        </join-lod-include-overrides>
+      </table>
+      <simple-id uuid='{69E77C84-0D58-4057-8A8E-49E1EDF26416}' />
+    </worksheet>
+    <worksheet name='TweetsPerDayBarGraph'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Workout_Collection' name='federated.0q3nup91kq9xvb14laox40th3kjp' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0q3nup91kq9xvb14laox40th3kjp'>
+            <column caption='DayOfDate' datatype='string' name='[Calculation_110901198041538561]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='SPLIT([CreatedDate],&apos; &apos;,1)' />
+            </column>
+            <column caption='Created Date' datatype='string' name='[CreatedDate]' role='dimension' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>CreatedDate</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column aggregation='Sum' datatype='integer' name='[Document Index (generated)]' role='dimension' type='ordinal'>
+              <desc>
+                <formatted-text>
+                  <run>Document Index (generated)</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per Workout_Collection.json]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='COUNTD([Document Index (generated)])' />
+              <desc>
+                <formatted-text>
+                  <run>A calculated measure that is at Workout_Collection.json level of detail</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[Calculation_110901198041538561]' derivation='None' name='[none:Calculation_110901198041538561:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Number of Records per Workout_Collection.json]' derivation='User' name='[usr:Number of Records per Workout_Collection.json:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0q3nup91kq9xvb14laox40th3kjp].[usr:Number of Records per Workout_Collection.json:qk]</rows>
+        <cols>[federated.0q3nup91kq9xvb14laox40th3kjp].[none:Calculation_110901198041538561:nk]</cols>
+      </table>
+      <simple-id uuid='{DC4DD855-35D6-4DA5-B23F-C2095651DF22}' />
+    </worksheet>
+    <worksheet name='TweetsPerDayLineChart'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Workout_Collection' name='federated.0q3nup91kq9xvb14laox40th3kjp' />
+            <datasource caption='Sentiment_Collection' name='federated.192qc4y0sfp4l119879go196erd1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0q3nup91kq9xvb14laox40th3kjp'>
+            <column caption='Date' datatype='datetime' name='[Calculation_110901198041427968]' role='dimension' type='ordinal'>
+              <calculation class='tableau' formula='DATEPARSE(&quot;EEE MMM dd HH:mm:ss +0000 yyyy&quot;,[CreatedDate])' />
+            </column>
+            <column caption='Created Date' datatype='string' name='[CreatedDate]' role='dimension' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>CreatedDate</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column aggregation='Sum' datatype='integer' name='[Document Index (generated)]' role='dimension' type='ordinal'>
+              <desc>
+                <formatted-text>
+                  <run>Document Index (generated)</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per Workout_Collection.json]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='COUNTD([Document Index (generated)])' />
+              <desc>
+                <formatted-text>
+                  <run>A calculated measure that is at Workout_Collection.json level of detail</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[Calculation_110901198041427968]' derivation='Day-Trunc' name='[tdy:Calculation_110901198041427968:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Number of Records per Workout_Collection.json]' derivation='User' name='[usr:Number of Records per Workout_Collection.json:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.192qc4y0sfp4l119879go196erd1'>
+            <column datatype='string' name='[Sentiment]' role='dimension' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>Sentiment</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column aggregation='Sum' caption='_Id' datatype='real' name='[_id]' role='dimension' type='ordinal'>
+              <desc>
+                <formatted-text>
+                  <run>_id</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[Sentiment]' derivation='None' name='[none:Sentiment:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0q3nup91kq9xvb14laox40th3kjp].[usr:Number of Records per Workout_Collection.json:qk]</rows>
+        <cols>[federated.0q3nup91kq9xvb14laox40th3kjp].[tdy:Calculation_110901198041427968:qk]</cols>
+        <join-lod-include-overrides>
+          <column>[federated.192qc4y0sfp4l119879go196erd1].[_id]</column>
+        </join-lod-include-overrides>
+      </table>
+      <simple-id uuid='{56A0C8B1-8268-4D9B-A697-78A653CCD613}' />
+    </worksheet>
+    <worksheet name='TweetsPerTimeofDay_StackedBar'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Workout_Collection' name='federated.0q3nup91kq9xvb14laox40th3kjp' />
+            <datasource caption='Sentiment_Collection' name='federated.192qc4y0sfp4l119879go196erd1' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0q3nup91kq9xvb14laox40th3kjp'>
+            <column caption='Date' datatype='datetime' name='[Calculation_110901198041427968]' role='dimension' type='ordinal'>
+              <calculation class='tableau' formula='DATEPARSE(&quot;EEE MMM dd HH:mm:ss +0000 yyyy&quot;,[CreatedDate])' />
+            </column>
+            <column caption='TimesOfDay' datatype='string' name='[Calculation_110901198041624578]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='IF DATEPART(&apos;hour&apos;,[Calculation_110901198041427968])   &lt;12 THEN &apos;Morning&apos;&#13;&#10;ELSEIF DATEPART(&apos;hour&apos;,[Calculation_110901198041427968])  &lt;18 THEN &apos;Afternoon&apos;&#13;&#10;ELSE &apos;Evening&apos;&#13;&#10;END' />
+            </column>
+            <column caption='Created Date' datatype='string' name='[CreatedDate]' role='dimension' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>CreatedDate</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column aggregation='Sum' datatype='integer' name='[Document Index (generated)]' role='dimension' type='ordinal'>
+              <desc>
+                <formatted-text>
+                  <run>Document Index (generated)</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column datatype='integer' is-auto-gen-lod-field='true' name='[Number of Records per Workout_Collection.json]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='COUNTD([Document Index (generated)])' />
+              <desc>
+                <formatted-text>
+                  <run>A calculated measure that is at Workout_Collection.json level of detail</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[Calculation_110901198041624578]' derivation='None' name='[none:Calculation_110901198041624578:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Number of Records per Workout_Collection.json]' derivation='User' name='[pcto:usr:Number of Records per Workout_Collection.json:qk]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Rows' type='PctTotal' />
+            </column-instance>
+            <column-instance column='[Number of Records per Workout_Collection.json]' derivation='User' name='[usr:Number of Records per Workout_Collection.json:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.192qc4y0sfp4l119879go196erd1'>
+            <column datatype='string' name='[Sentiment]' role='dimension' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>Sentiment</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column aggregation='Sum' caption='_Id' datatype='real' name='[_id]' role='dimension' type='ordinal'>
+              <desc>
+                <formatted-text>
+                  <run>_id</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[Sentiment]' derivation='None' name='[none:Sentiment:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]' />
+              <text column='[federated.0q3nup91kq9xvb14laox40th3kjp].[pcto:usr:Number of Records per Workout_Collection.json:qk]' />
+              <text column='[federated.0q3nup91kq9xvb14laox40th3kjp].[usr:Number of Records per Workout_Collection.json:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0q3nup91kq9xvb14laox40th3kjp].[usr:Number of Records per Workout_Collection.json:qk]</rows>
+        <cols>[federated.0q3nup91kq9xvb14laox40th3kjp].[none:Calculation_110901198041624578:nk]</cols>
+        <join-lod-include-overrides>
+          <column>[federated.192qc4y0sfp4l119879go196erd1].[_id]</column>
+        </join-lod-include-overrides>
+      </table>
+      <simple-id uuid='{7F38AF6B-C900-411C-BD25-A615948C97CB}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='58'>
+    <window class='worksheet' name='TweetsPerDayBarGraph'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0q3nup91kq9xvb14laox40th3kjp].[none:Calculation_110901198041538561:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{5CB990BA-C47C-4AAE-9016-A3AA8264ED44}' />
+    </window>
+    <window class='worksheet' name='TweetsPerDayLineChart'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0q3nup91kq9xvb14laox40th3kjp].[yr:Calculation_110901198041427968:ok]</field>
+            <field>[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{004F9A1B-80F6-4C6D-BD89-4751879E459E}' />
+    </window>
+    <window class='worksheet' name='TweetsPerTimeofDay_StackedBar'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight field='[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]'>
+          <color-one-way>
+            <field>[federated.0q3nup91kq9xvb14laox40th3kjp].[none:Calculation_110901198041624578:nk]</field>
+            <field>[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]</field>
+          </color-one-way>
+          <bucket-selection>
+            <bucket>&quot;pos&quot;</bucket>
+          </bucket-selection>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{6B484E21-3C7A-43A1-B7C8-9708CC4B072D}' />
+    </window>
+    <window class='worksheet' maximized='true' name='HashtagWithSentiment-Bubble'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0q3nup91kq9xvb14laox40th3kjp].[none:text:nk]</field>
+            <field>[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{37B853C6-C5B9-43A2-8AA8-0AEE745799C3}' />
+    </window>
+    <window class='worksheet' name='Sheet 5'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight field='[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]'>
+          <color-one-way>
+            <field>[federated.0q3nup91kq9xvb14laox40th3kjp].[none:text:nk]</field>
+            <field>[federated.192qc4y0sfp4l119879go196erd1].[none:Sentiment:nk]</field>
+          </color-one-way>
+          <bucket-selection>
+            <bucket>&quot;pos&quot;</bucket>
+          </bucket-selection>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{31B6FB76-2F1F-49F1-B992-429FA380958F}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='HashtagWithSentiment-Bubble' width='192'>
+      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
+    </thumbnail>
+    <thumbnail height='192' name='Sheet 5' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAACS0lEQVR4nO3WIQpCURRF0a84/yE4CbPFYvjBIAiCII7k2cX8fthrxZtO2XB3Y4yxQNR+
+      6wGwJQGQJgDSBEDa4d/xcnst6+MzewtM9zeA9fFZjqfr7C0wnReINAGQJgDSBECaAEgTAGkC
+      IE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDS
+      BECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0A
+      pAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECa
+      AEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmA
+      NAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgT
+      AGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQ
+      JgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkC
+      IE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDS
+      BECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApO3GGOP3eF6fy/X+3mIPTPUF4c0X
+      3pNrHO4AAAAASUVORK5CYII=
+    </thumbnail>
+    <thumbnail height='192' name='TweetsPerDayBarGraph' width='192'>
+      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
+      10SVE59VproSrOsa0ZE+Th5pIBGoZfHcMn77ltVoNIrL5ZJVIDFhprkSHA8HGRgZJakruDPy
+      KM9zEgqPEElMdc3EZ50pRhmp0T5ONbYwEE6gACndQcm8GnxyvUtMMlMEwJVbSk2Nk0vDY6Sw
+      4fHnUlSQi0tWgMQkM9Uc4OOQOYAwimnmAEJMFQmAsDQJgLA0CYCwNAmAsDQJgLA0CYCwNAmA
+      sDQJgLA0CYCwNAmAsDQJgLA0CYCwNAmAsDQJgLA0CYCwNAmAsDQJgLA0CYCwNAmAsDQJgLA0
+      CYCwNAmAsDQJgLA0CYCwNAmAsDQJgLA0CYCwNAmAsDQJgLA0CYCwNAmAsDQJgLA0CYCwNAmA
+      sDQJgLA0CYCwNAmAsDQJgLA0CYCwNAmAsDQJgLA0CYCwNAmAsDQJgLA0CYCwNAmAsDQJgLA0
+      u3HfSiM+HiOhaVe+VnG4nDjsNhTjChHCUAYFIEHHO7/k+dePMBj5TQAK+dyffIn6xRV4jClE
+      CMMZFIB+GnZ1EVjzJe6ZFUBVAJz483JxGVOAEJPCoACkEyj0EysqpKys+MqQR0FVVRn+CFMz
+      KAAqaelD7N38Jva2AIoCkEH14gXMnpGDw5hChDCcQQFIQk4tC4K99PX1XnktRmA8gW5MAUJM
+      CkXXdePaaHKUjrZOkt4AxYW5uG2GfeerotEoLpcLRZHBlZgYRVEUw5ZB4xf28v3vvcCp4XG0
+      lI3SZbfz4Je/QIXfwJVWIQxmUOsM8u4rb5Fc82f8YGMt+nALL76wncONHRStrpKVIGFaBl0J
+      jjASzKC8NBuHw44rM5N8TxraeJSkMQUIMSkM6gGymL3AwU/f2IyttxpvqIVjg7B8VZ58+gtT
+      M2wSnBzp5NDBg5zuGMPptJNfu5Tr580ky2PsdiOZBAujKIqiGBeA6BjjKR2iEXo6zjLmq2J2
+      VSE+g+fAEgBhFEVRFIM+nkc48MyT/PuJQUJtW3nqfz3L0z95jt0nu2UOIEzNsAD0dXvJybbR
+      evgg2Xd/jS/PLGC0f5CoMQUIMSkM2wtUUDTOrp2/ItmssnBNDqNDGnaP28j91kIYzqD2mcmC
+      W9cTOtpKovohlhV5ODezkszKApzGFCDEpDBwK4ROKplCV22oepJYPInd6cZhM3ayKpNgYRQD
+      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
+      vGTWMgnNI94AAAAASUVORK5CYII=
+    </thumbnail>
+    <thumbnail height='192' name='TweetsPerDayLineChart' width='192'>
+      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
+      1VokAKKt/R8FyiLjmd/7JAAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='TweetsPerTimeofDay_StackedBar' width='192'>
+      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
+      zvqpAAAAAElFTkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>

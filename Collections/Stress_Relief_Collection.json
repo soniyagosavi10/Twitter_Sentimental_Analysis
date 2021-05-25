@@ -1,0 +1,2291 @@
+[{
+  "_id": 1326585272079773700,
+  "id_str": "1326585272079773696",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    137
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/RSZPmU3FSZ",
+        "expanded_url": "http://www.drwilsons.com",
+        "display_url": "drwilsons.com",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1326585112905969700,
+        "id_str": "1326585112905969664",
+        "indices": [
+          138,
+          161
+        ],
+        "media_url": "http://pbs.twimg.com/media/Emj6IbMU8AAGQPU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Emj6IbMU8AAGQPU.jpg",
+        "url": "https://t.co/9x7FYPZStr",
+        "display_url": "pic.twitter.com/9x7FYPZStr",
+        "expanded_url": "https://twitter.com/DrJamesLWilson/status/1326585272079773696/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 513,
+            "h": 288,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 513,
+            "h": 288,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 513,
+            "h": 288,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 59886374,
+    "id_str": "59886374",
+    "name": "Dr. James L. Wilson",
+    "screen_name": "DrJamesLWilson",
+    "location": "Tucson, AZ",
+    "description": "Author of Adrenal Fatigue: The 21st Century Stress Syndrome, President and chief formulator of @DoctorWilsons",
+    "url": "http://t.co/szD6qf3WPA",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/szD6qf3WPA",
+            "expanded_url": "http://www.adrenalfatigue.org",
+            "display_url": "adrenalfatigue.org",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 676,
+    "friends_count": 50,
+    "listed_count": 35,
+    "created_at": "Fri Jul 24 20:57:03 +0000 2009",
+    "favourites_count": 53,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 507,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1390384522/DrJamesLWilson_navy_web100_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390384522/DrJamesLWilson_navy_web100_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/59886374/1441130807",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Wed Nov 11 17:59:10 +0000 2020",
+  "Tweet": "use code flash to save 10% thru midnight mst on any of our dietary supplements for stress and adrenal fatigue at https//tco/rszpmu3fsz https//tco/9x7fypzstr",
+  "UserName": "Dr. James L. Wilson",
+  "Retweet_Count": 0,
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1326585112905969700,
+        "id_str": "1326585112905969664",
+        "indices": [
+          138,
+          161
+        ],
+        "media_url": "http://pbs.twimg.com/media/Emj6IbMU8AAGQPU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Emj6IbMU8AAGQPU.jpg",
+        "url": "https://t.co/9x7FYPZStr",
+        "display_url": "pic.twitter.com/9x7FYPZStr",
+        "expanded_url": "https://twitter.com/DrJamesLWilson/status/1326585272079773696/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 513,
+            "h": 288,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 513,
+            "h": 288,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 513,
+            "h": 288,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "favorite_count": 1,
+  "favorited": false
+},{
+  "_id": 1330541692643123200,
+  "id_str": "1330541692643123206",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    183
+  ],
+  "Entites": {
+    "hashtags": [
+      {
+        "text": "StressRelief",
+        "indices": [
+          162,
+          175
+        ]
+      },
+      {
+        "text": "Health",
+        "indices": [
+          176,
+          183
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/1fAfYCL3fL",
+        "expanded_url": "https://buff.ly/32lEuNA",
+        "display_url": "buff.ly/32lEuNA",
+        "indices": [
+          138,
+          161
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 918507429658349600,
+    "id_str": "918507429658349568",
+    "name": "eonlinemarketingtools",
+    "screen_name": "OnlineMktTools",
+    "location": "United States",
+    "description": "TAKING YOUR PASSION FOR A BUSINESS AND TURNING IT INTO YOUR LIFE’S BUSINESS",
+    "url": "https://t.co/A6XvXduoyP",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/A6XvXduoyP",
+            "expanded_url": "https://www.eonlinemarketingtools.com/",
+            "display_url": "eonlinemarketingtools.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 151,
+    "friends_count": 338,
+    "listed_count": 5,
+    "created_at": "Thu Oct 12 16:03:31 +0000 2017",
+    "favourites_count": 14,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1743,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1088513231335747584/g7oGETrn_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088513231335747584/g7oGETrn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/918507429658349568/1548356167",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Sun Nov 22 16:00:34 +0000 2020",
+  "Tweet": "feeling a little stressed out lately looking for a supplement that can help here are 4 of the best supplements to help relieve stresshttps//tco/1fafycl3fl #stressrelief #health",
+  "UserName": "eonlinemarketingtools",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1330194989868068900,
+  "id_str": "1330194989868068864",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    140
+  ],
+  "Entites": {
+    "hashtags": [
+      {
+        "text": "wellbeing",
+        "indices": [
+          103,
+          113
+        ]
+      },
+      {
+        "text": "wellness",
+        "indices": [
+          114,
+          123
+        ]
+      },
+      {
+        "text": "UK",
+        "indices": [
+          124,
+          127
+        ]
+      },
+      {
+        "text": "UKbloggers",
+        "indices": [
+          128,
+          139
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Unbeelievable",
+        "name": "UnBEElievable Health",
+        "id": 56712819,
+        "id_str": "56712819",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/M5mAzfqHr3",
+        "expanded_url": "https://thebalancedmidlife.com/2020/11/19/bee-calm/",
+        "display_url": "thebalancedmidlife.com/2020/11/19/bee…",
+        "indices": [
+          79,
+          102
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 3096535534,
+    "id_str": "3096535534",
+    "name": "Sally Best",
+    "screen_name": "NatHealthNut",
+    "location": "London",
+    "description": "Designer. Health, natural products & fitness fan. Postive vibes. Lover of healthy recipes.\n“Your thoughts are the architects of your destiny.” D McKay",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2119,
+    "friends_count": 1880,
+    "listed_count": 343,
+    "created_at": "Thu Mar 19 10:49:22 +0000 2015",
+    "favourites_count": 18182,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9842,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1249683806111649793/vJPtiyMV_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249683806111649793/vJPtiyMV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3096535534/1520247602",
+    "profile_link_color": "FA743E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Sat Nov 21 17:02:54 +0000 2020",
+  "Tweet": "reviewbee calm natural supplements for stress / anxietyhttps//tco/m5mazfqhr3 #wellbeing #wellness #uk #ukbloggers #madeintheuk https//tco/1apedqp50q",
+  "UserName": "Sally Best",
+  "Retweet_Count": 1,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1330185803067256800,
+  "id_str": "1330185803067256833",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    133
+  ],
+  "Entites": {
+    "hashtags": [
+      {
+        "text": "wellbeing",
+        "indices": [
+          84,
+          94
+        ]
+      },
+      {
+        "text": "wellness",
+        "indices": [
+          95,
+          104
+        ]
+      },
+      {
+        "text": "UK",
+        "indices": [
+          105,
+          108
+        ]
+      },
+      {
+        "text": "UKbloggers",
+        "indices": [
+          109,
+          120
+        ]
+      },
+      {
+        "text": "madeintheuk",
+        "indices": [
+          121,
+          133
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/M5mAzfqHr3",
+        "expanded_url": "https://thebalancedmidlife.com/2020/11/19/bee-calm/",
+        "display_url": "thebalancedmidlife.com/2020/11/19/bee…",
+        "indices": [
+          60,
+          83
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1330185573487796200,
+        "id_str": "1330185573487796231",
+        "indices": [
+          134,
+          157
+        ],
+        "media_url": "http://pbs.twimg.com/media/EnXEu0EW4AcGxIz.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EnXEu0EW4AcGxIz.jpg",
+        "url": "https://t.co/1ApeDQP50Q",
+        "display_url": "pic.twitter.com/1ApeDQP50Q",
+        "expanded_url": "https://twitter.com/Unbeelievable/status/1330185803067256833/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 425,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1006,
+            "h": 629,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1006,
+            "h": 629,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 56712819,
+    "id_str": "56712819",
+    "name": "UnBEElievable Health",
+    "screen_name": "Unbeelievable",
+    "location": "London, England",
+    "description": "Health tips & more from the makers of natural, ethical, vegetarian supplements for immunity, energy, stress, sleep++. 18 awards. % donated to bee causes.🐝",
+    "url": "https://t.co/rLS0NCdlXJ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/rLS0NCdlXJ",
+            "expanded_url": "http://www.unbeelievablehealth.co.uk",
+            "display_url": "unbeelievablehealth.co.uk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 21133,
+    "friends_count": 9653,
+    "listed_count": 781,
+    "created_at": "Tue Jul 14 14:47:52 +0000 2009",
+    "favourites_count": 34758,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 19870,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFC54F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/876341307484114945/XHJpq8FJ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/876341307484114945/XHJpq8FJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/56712819/1454541170",
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E54239",
+    "profile_text_color": "EF8657",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Sat Nov 21 16:26:23 +0000 2020",
+  "Tweet": "reviewbee calm natural supplements for stress / anxietyhttps//tco/m5mazfqhr3 #wellbeing #wellness #uk #ukbloggers #madeintheuk https//tco/1apedqp50q",
+  "UserName": "UnBEElievable Health",
+  "Retweet_Count": 1,
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1330185573487796200,
+        "id_str": "1330185573487796231",
+        "indices": [
+          134,
+          157
+        ],
+        "media_url": "http://pbs.twimg.com/media/EnXEu0EW4AcGxIz.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EnXEu0EW4AcGxIz.jpg",
+        "url": "https://t.co/1ApeDQP50Q",
+        "display_url": "pic.twitter.com/1ApeDQP50Q",
+        "expanded_url": "https://twitter.com/Unbeelievable/status/1330185803067256833/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 425,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1006,
+            "h": 629,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1006,
+            "h": 629,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "favorite_count": 2,
+  "favorited": false
+},{
+  "_id": 1334752706276180000,
+  "id_str": "1334752706276179969",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    155
+  ],
+  "Entites": {
+    "hashtags": [
+      {
+        "text": "infertility",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/C0UGKTXWd6",
+        "expanded_url": "https://fertilcenter.com/product/max-potency-100-organic-ashwagandha-capsules-with-black-pepper-1950-mg-anti-anxiety-supplements-for-stress-relief-mood-boost-more-energy-non-gmo-gluten-free-orphic-nutrition-90-caps/",
+        "display_url": "fertilcenter.com/product/max-po…",
+        "indices": [
+          132,
+          155
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1334752704401264600,
+        "id_str": "1334752704401264641",
+        "indices": [
+          156,
+          179
+        ],
+        "media_url": "http://pbs.twimg.com/media/EoX-g0jUUAE5czd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EoX-g0jUUAE5czd.jpg",
+        "url": "https://t.co/T92dhcjoK5",
+        "display_url": "pic.twitter.com/T92dhcjoK5",
+        "expanded_url": "https://twitter.com/CenterFertil/status/1334752706276179969/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1000,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1000,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://socialrabbitplugin.com/\" rel=\"nofollow\">SocialRabbit Plugin</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 1249278453464985600,
+    "id_str": "1249278453464985600",
+    "name": "FertilCenter",
+    "screen_name": "CenterFertil",
+    "location": "Oregon, USA",
+    "description": "https://t.co/DdHJvhStqk is a one Stop Shop for Fertility Supplements, Remedies and Information. We offer handpicked, top quality products and services to make everyday",
+    "url": "https://t.co/KatdvQfraZ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/KatdvQfraZ",
+            "expanded_url": "https://fertilcenter.com",
+            "display_url": "fertilcenter.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/DdHJvhStqk",
+            "expanded_url": "http://FertilCenter.com",
+            "display_url": "FertilCenter.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 5,
+    "friends_count": 0,
+    "listed_count": 0,
+    "created_at": "Sun Apr 12 10:09:37 +0000 2020",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2332,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1249278963563683841/IEr71dkd_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249278963563683841/IEr71dkd_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249278453464985600/1586686408",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Fri Dec 04 06:53:38 +0000 2020",
+  "Tweet": "#infertility max potency organic ashwagandha capsules with black pepper 1950 mg  antianxiety supplements for stress relief mood… https//tco/c0ugktxwd6 https//tco/t92dhcjok5",
+  "UserName": "FertilCenter",
+  "Retweet_Count": 0,
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1334752704401264600,
+        "id_str": "1334752704401264641",
+        "indices": [
+          156,
+          179
+        ],
+        "media_url": "http://pbs.twimg.com/media/EoX-g0jUUAE5czd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EoX-g0jUUAE5czd.jpg",
+        "url": "https://t.co/T92dhcjoK5",
+        "display_url": "pic.twitter.com/T92dhcjoK5",
+        "expanded_url": "https://twitter.com/CenterFertil/status/1334752706276179969/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1000,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1000,
+            "h": 1000,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1334534571040399400,
+  "id_str": "1334534571040399361",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    44
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/WLbyqUYBFr",
+        "expanded_url": "https://www.themeaningofwellness.com/10-most-effective-supplements-for-stress-relief/",
+        "display_url": "themeaningofwellness.com/10-most-effect…",
+        "indices": [
+          21,
+          44
+        ]
+      },
+      {
+        "url": "https://t.co/TmcblN3Zyv",
+        "expanded_url": "https://twitter.com/IrenSayWhen/status/1331936020712075264",
+        "display_url": "twitter.com/IrenSayWhen/st…",
+        "indices": [
+          45,
+          68
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 1324306920740716500,
+    "id_str": "1324306920740716546",
+    "name": "Khurram Shabbir",
+    "screen_name": "Khurram81303966",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 0,
+    "friends_count": 1,
+    "listed_count": 0,
+    "created_at": "Thu Nov 05 11:05:59 +0000 2020",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 354,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": true,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Thu Dec 03 16:26:50 +0000 2020",
+  "Tweet": "for informative blog https//tco/wlbyquybfr https//tco/tmcbln3zyv",
+  "UserName": "Khurram Shabbir",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 1,
+  "favorited": false
+},{
+  "_id": 1334117384521719800,
+  "id_str": "1334117384521719809",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    139
+  ],
+  "Entites": {
+    "hashtags": [
+      {
+        "text": "wellness",
+        "indices": [
+          125,
+          134
+        ]
+      },
+      {
+        "text": "UK",
+        "indices": [
+          135,
+          138
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Unbeelievable",
+        "name": "UnBEElievable Health",
+        "id": 56712819,
+        "id_str": "56712819",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/M5mAzfqHr3",
+        "expanded_url": "https://thebalancedmidlife.com/2020/11/19/bee-calm/",
+        "display_url": "thebalancedmidlife.com/2020/11/19/bee…",
+        "indices": [
+          101,
+          124
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 3096535534,
+    "id_str": "3096535534",
+    "name": "Sally Best",
+    "screen_name": "NatHealthNut",
+    "location": "London",
+    "description": "Designer. Health, natural products & fitness fan. Postive vibes. Lover of healthy recipes.\n“Your thoughts are the architects of your destiny.” D McKay",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2123,
+    "friends_count": 1919,
+    "listed_count": 342,
+    "created_at": "Thu Mar 19 10:49:22 +0000 2015",
+    "favourites_count": 18375,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 9938,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1249683806111649793/vJPtiyMV_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249683806111649793/vJPtiyMV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3096535534/1520247602",
+    "profile_link_color": "FA743E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Wed Dec 02 12:49:05 +0000 2020",
+  "Tweet": "stressed anxious reviewbee calm natural supplements for stress / anxietyhttps//tco/m5mazfqhr3 #wellness #uk #ukbloggers #wellbeingwednesday https//tco/wtwiyxmp3u",
+  "UserName": "Sally Best",
+  "Retweet_Count": 1,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1334085882635300900,
+  "id_str": "1334085882635300864",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    151
+  ],
+  "Entites": {
+    "hashtags": [
+      {
+        "text": "wellness",
+        "indices": [
+          106,
+          115
+        ]
+      },
+      {
+        "text": "UK",
+        "indices": [
+          116,
+          119
+        ]
+      },
+      {
+        "text": "UKbloggers",
+        "indices": [
+          120,
+          131
+        ]
+      },
+      {
+        "text": "wellbeingwednesday",
+        "indices": [
+          132,
+          151
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/M5mAzfqHr3",
+        "expanded_url": "https://thebalancedmidlife.com/2020/11/19/bee-calm/",
+        "display_url": "thebalancedmidlife.com/2020/11/19/bee…",
+        "indices": [
+          82,
+          105
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1334085611494514700,
+        "id_str": "1334085611494514688",
+        "indices": [
+          152,
+          175
+        ],
+        "media_url": "http://pbs.twimg.com/media/EoOfy50XIAAVhPk.png",
+        "media_url_https": "https://pbs.twimg.com/media/EoOfy50XIAAVhPk.png",
+        "url": "https://t.co/WTwiyXMP3U",
+        "display_url": "pic.twitter.com/WTwiyXMP3U",
+        "expanded_url": "https://twitter.com/Unbeelievable/status/1334085882635300864/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 569,
+            "h": 319,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 569,
+            "h": 319,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 569,
+            "h": 319,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 56712819,
+    "id_str": "56712819",
+    "name": "UnBEElievable Health",
+    "screen_name": "Unbeelievable",
+    "location": "London, England",
+    "description": "Health tips & more from the makers of natural, ethical, vegetarian supplements for immunity, energy, stress, sleep++. 18 awards. % donated to bee causes.🐝",
+    "url": "https://t.co/rLS0NCdlXJ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/rLS0NCdlXJ",
+            "expanded_url": "http://www.unbeelievablehealth.co.uk",
+            "display_url": "unbeelievablehealth.co.uk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 21115,
+    "friends_count": 9668,
+    "listed_count": 780,
+    "created_at": "Tue Jul 14 14:47:52 +0000 2009",
+    "favourites_count": 34925,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 19986,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFC54F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/876341307484114945/XHJpq8FJ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/876341307484114945/XHJpq8FJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/56712819/1454541170",
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E54239",
+    "profile_text_color": "EF8657",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Wed Dec 02 10:43:55 +0000 2020",
+  "Tweet": "stressed anxious reviewbee calm natural supplements for stress / anxietyhttps//tco/m5mazfqhr3 #wellness #uk #ukbloggers #wellbeingwednesday https//tco/wtwiyxmp3u",
+  "UserName": "UnBEElievable Health",
+  "Retweet_Count": 1,
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1334085611494514700,
+        "id_str": "1334085611494514688",
+        "indices": [
+          152,
+          175
+        ],
+        "media_url": "http://pbs.twimg.com/media/EoOfy50XIAAVhPk.png",
+        "media_url_https": "https://pbs.twimg.com/media/EoOfy50XIAAVhPk.png",
+        "url": "https://t.co/WTwiyXMP3U",
+        "display_url": "pic.twitter.com/WTwiyXMP3U",
+        "expanded_url": "https://twitter.com/Unbeelievable/status/1334085882635300864/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 569,
+            "h": 319,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 569,
+            "h": 319,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 569,
+            "h": 319,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "favorite_count": 2,
+  "favorited": false
+},{
+  "_id": 1333812586681409500,
+  "id_str": "1333812586681409536",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    59
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/uaxA0mCSd8",
+        "expanded_url": "http://healthynewsarticles.com/vitamins-and-supplements-for-stress/",
+        "display_url": "healthynewsarticles.com/vitamins-and-s…",
+        "indices": [
+          36,
+          59
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 1447219430,
+    "id_str": "1447219430",
+    "name": "freddy",
+    "screen_name": "freddystore",
+    "location": "",
+    "description": "Coach and Internet Marketing. (ebooks)",
+    "url": "https://t.co/2oNnNDlYAQ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/2oNnNDlYAQ",
+            "expanded_url": "http://BestEbookStoreOnline.com",
+            "display_url": "BestEbookStoreOnline.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 990,
+    "friends_count": 1377,
+    "listed_count": 4,
+    "created_at": "Tue May 21 20:31:00 +0000 2013",
+    "favourites_count": 11,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2245,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/819526282862063616/zVtMKX-3_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/819526282862063616/zVtMKX-3_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Tue Dec 01 16:37:56 +0000 2020",
+  "Tweet": "vitamins and supplements for stress https//tco/uaxa0mcsd8",
+  "UserName": "freddy",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1333280195256541200,
+  "id_str": "1333280195256541184",
+  "Truncated": false,
+  "Display_text_range": [
+    16,
+    51
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "rageaholicdove",
+        "name": "I love Fuckin Problems that’s my fuckin problem",
+        "id": 218390597,
+        "id_str": "218390597",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "In_reply_to_status_id": 1333279185498902500,
+  "In_reply_to_status_id_str": "1333279185498902529",
+  "In_reply_to_user_id": 218390597,
+  "In_reply_to_user_id_str": "218390597",
+  "In_reply_to_screen_name": "rageaholicdove",
+  "User": {
+    "id": 41484073,
+    "id_str": "41484073",
+    "name": "denise navidad",
+    "screen_name": "sayambuIar",
+    "location": "San Francisco, CA",
+    "description": "runnin thru the house with a pickle in my mouth",
+    "url": "https://t.co/Il1uFGYo3I",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/Il1uFGYo3I",
+            "expanded_url": "http://instagram.com/deniserrrrrrr",
+            "display_url": "instagram.com/deniserrrrrrr",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 558,
+    "friends_count": 490,
+    "listed_count": 4,
+    "created_at": "Wed May 20 23:58:10 +0000 2009",
+    "favourites_count": 78121,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7422,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1334681134584586240/dZRiEfpE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334681134584586240/dZRiEfpE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/41484073/1604730191",
+    "profile_link_color": "F5ABB5",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Mon Nov 30 05:22:24 +0000 2020",
+  "Tweet": " get those relaxation supplements",
+  "UserName": "denise navidad",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1332728473824145400,
+  "id_str": "1332728473824145409",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    278
+  ],
+  "Entites": {
+    "hashtags": [
+      {
+        "text": "BlackFriday",
+        "indices": [
+          217,
+          229
+        ]
+      },
+      {
+        "text": "SpinalTap",
+        "indices": [
+          230,
+          240
+        ]
+      },
+      {
+        "text": "FindYourFeelBetter",
+        "indices": [
+          241,
+          260
+        ]
+      },
+      {
+        "text": "MyChangeForGood",
+        "indices": [
+          262,
+          278
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/7q41Ogv5y1",
+        "expanded_url": "http://neogenics.com",
+        "display_url": "neogenics.com",
+        "indices": [
+          192,
+          215
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1332728471685124000,
+        "id_str": "1332728471685124101",
+        "indices": [
+          279,
+          302
+        ],
+        "media_url": "http://pbs.twimg.com/media/En7Ne-DXUAU9xfF.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/En7Ne-DXUAU9xfF.jpg",
+        "url": "https://t.co/ktn6jm0cPu",
+        "display_url": "pic.twitter.com/ktn6jm0cPu",
+        "expanded_url": "https://twitter.com/Neogenics_/status/1332728473824145409/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 1234010504873406500,
+    "id_str": "1234010504873406465",
+    "name": "Neogenics Nutrition",
+    "screen_name": "Neogenics_",
+    "location": "Nashville, TN",
+    "description": "Neogenics, LLC was founded to manufacture and distribute premium nutritional supplements to enhance lives in the form of better health. #FindYourFeelBetter",
+    "url": "https://t.co/oPlIDIXVtx",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/oPlIDIXVtx",
+            "expanded_url": "https://neogenics.com/Home/",
+            "display_url": "neogenics.com/Home/",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 26,
+    "friends_count": 58,
+    "listed_count": 0,
+    "created_at": "Sun Mar 01 07:00:22 +0000 2020",
+    "favourites_count": 110,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 163,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1234012484492595201/AAy65q8m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234012484492595201/AAy65q8m_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1234010504873406465/1583079862",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Sat Nov 28 16:50:03 +0000 2020",
+  "Tweet": "this one goes to eleven thank you nigel tufnel ️find your feel better with better natural supplements for stress sleep focus meal replacement and more all 50% off with code btbf50 https//tco/7q41ogv5y1#blackfriday#spinaltap#findyourfeelbetter #mychangeforgood https//tco/ktn6jm0cpu",
+  "UserName": "Neogenics Nutrition",
+  "Retweet_Count": 0,
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1332728471685124000,
+        "id_str": "1332728471685124101",
+        "indices": [
+          279,
+          302
+        ],
+        "media_url": "http://pbs.twimg.com/media/En7Ne-DXUAU9xfF.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/En7Ne-DXUAU9xfF.jpg",
+        "url": "https://t.co/ktn6jm0cPu",
+        "display_url": "pic.twitter.com/ktn6jm0cPu",
+        "expanded_url": "https://twitter.com/Neogenics_/status/1332728473824145409/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1336680617883431000,
+  "id_str": "1336680617883430915",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    197
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/hCYECVS8W1",
+        "expanded_url": "https://healthyenergydrinks.co/swanson-premium-ashwagandha-powder-supplement-450-mg-ashwagandha-root-dried-powder-pure-ashwagandha-supplements-for-stress-relief-and-energy-support-100-gelatin-capsules/",
+        "display_url": "healthyenergydrinks.co/swanson-premiu…",
+        "indices": [
+          174,
+          197
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1336680617010999300,
+        "id_str": "1336680617010999297",
+        "indices": [
+          198,
+          221
+        ],
+        "media_url": "http://pbs.twimg.com/media/EozX8GsXMAE00CC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EozX8GsXMAE00CC.jpg",
+        "url": "https://t.co/i8PgeHNDd2",
+        "display_url": "pic.twitter.com/i8PgeHNDd2",
+        "expanded_url": "https://twitter.com/vehicledashcam/status/1336680617883430915/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 260,
+            "h": 498,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 260,
+            "h": 498,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 260,
+            "h": 498,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 937864162503311400,
+    "id_str": "937864162503311363",
+    "name": "vehicledashcam",
+    "screen_name": "vehicledashcam",
+    "location": "United States",
+    "description": "Find the best dash cams for vehicles, rearview mirror backup camera, wireless backup camera system for sale consumer reports.",
+    "url": "https://t.co/Z0iIuLB5cI",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/Z0iIuLB5cI",
+            "expanded_url": "https://vehicledashcam.review/",
+            "display_url": "vehicledashcam.review",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 35,
+    "friends_count": 47,
+    "listed_count": 0,
+    "created_at": "Tue Dec 05 02:00:15 +0000 2017",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 10238,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/937866056592277504/-Uh-5pJ5_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/937866056592277504/-Uh-5pJ5_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Wed Dec 09 14:34:28 +0000 2020",
+  "Tweet": "swanson premium ashwagandha powder supplement 450 mg ashwagandha root dried powder – pure ashwagandha supplements for stress relief and energy support – 100 gelatin capsules https//tco/hcyecvs8w1 https//tco/i8pgehndd2",
+  "UserName": "vehicledashcam",
+  "Retweet_Count": 0,
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1336680617010999300,
+        "id_str": "1336680617010999297",
+        "indices": [
+          198,
+          221
+        ],
+        "media_url": "http://pbs.twimg.com/media/EozX8GsXMAE00CC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EozX8GsXMAE00CC.jpg",
+        "url": "https://t.co/i8PgeHNDd2",
+        "display_url": "pic.twitter.com/i8PgeHNDd2",
+        "expanded_url": "https://twitter.com/vehicledashcam/status/1336680617883430915/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 260,
+            "h": 498,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 260,
+            "h": 498,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 260,
+            "h": 498,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1336341349390487600,
+  "id_str": "1336341349390487553",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    70
+  ],
+  "Entites": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 1009995535,
+    "id_str": "1009995535",
+    "name": "Bakugo supremacist | #BLM",
+    "screen_name": "AyyeKaye",
+    "location": "🇯🇲🗽",
+    "description": "First of Her Name, The Thickest, Queen of Memes, Khaleesi of the Great Caribbean Sea, Protector of Good Energy, Breaker of Jeans and the Mother of cats.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1274,
+    "friends_count": 1008,
+    "listed_count": 2,
+    "created_at": "Thu Dec 13 23:44:54 +0000 2012",
+    "favourites_count": 50889,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 68767,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1330213749547032577/pbFjcvrL_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330213749547032577/pbFjcvrL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009995535/1566846325",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Tue Dec 08 16:06:20 +0000 2020",
+  "Tweet": "just got some anxiety and stress relief supplements hope this works ",
+  "UserName": "Bakugo supremacist | #BLM",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1336242369096802300,
+  "id_str": "1336242369096802304",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    181
+  ],
+  "Entites": {
+    "hashtags": [
+      {
+        "text": "StressRelief",
+        "indices": [
+          160,
+          173
+        ]
+      },
+      {
+        "text": "Health",
+        "indices": [
+          174,
+          181
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/S391EkGcxa",
+        "expanded_url": "https://buff.ly/32lEuNA",
+        "display_url": "buff.ly/32lEuNA",
+        "indices": [
+          136,
+          159
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 4898602347,
+    "id_str": "4898602347",
+    "name": "Wolph Online",
+    "screen_name": "WolphUK",
+    "location": "United Kingdom",
+    "description": "An online shopping outlet for the latest in Tech & Gadgetry. Outdoor, Fitness & Gaming https://t.co/mjhllYu0MC | https://t.co/wSF68iyUPK",
+    "url": "https://t.co/pNd4xz89Ib",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/pNd4xz89Ib",
+            "expanded_url": "http://bit.ly/2miJpvb",
+            "display_url": "bit.ly/2miJpvb",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/mjhllYu0MC",
+            "expanded_url": "http://instagram.com/wolphuk/",
+            "display_url": "instagram.com/wolphuk/",
+            "indices": [
+              87,
+              110
+            ]
+          },
+          {
+            "url": "https://t.co/wSF68iyUPK",
+            "expanded_url": "http://Facebook.com/wolphuk/",
+            "display_url": "Facebook.com/wolphuk/",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 577,
+    "friends_count": 652,
+    "listed_count": 92,
+    "created_at": "Thu Feb 11 17:37:25 +0000 2016",
+    "favourites_count": 1374,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4149,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/697879517910716417/y6QjT15U_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/697879517910716417/y6QjT15U_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4898602347/1529757432",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Tue Dec 08 09:33:01 +0000 2020",
+  "Tweet": "feeling a little stressed out lately looking for a supplement that can help here are 4 of the best supplements to help relieve stresshttps//tco/s391ekgcxa #stressrelief #health",
+  "UserName": "Wolph Online",
+  "Retweet_Count": 0,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "favorited": false
+},{
+  "_id": 1337351939537969200,
+  "id_str": "1337351939537969153",
+  "Truncated": false,
+  "Display_text_range": [
+    0,
+    181
+  ],
+  "Entites": {
+    "hashtags": [
+      {
+        "text": "StressRelief",
+        "indices": [
+          160,
+          173
+        ]
+      },
+      {
+        "text": "Health",
+        "indices": [
+          174,
+          181
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/Tf4euknzJD",
+        "expanded_url": "https://app.quuu.co/r/jlnGL",
+        "display_url": "app.quuu.co/r/jlnGL",
+        "indices": [
+          136,
+          159
+        ]
+      }
+    ]
+  },
+  "Metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "Source": "<a href=\"https://app.socialchief.com\" rel=\"nofollow\">Socialchief</a>",
+  "In_reply_to_status_id": null,
+  "In_reply_to_status_id_str": null,
+  "In_reply_to_user_id": null,
+  "In_reply_to_user_id_str": null,
+  "In_reply_to_screen_name": null,
+  "User": {
+    "id": 1283453882769780700,
+    "id_str": "1283453882769780737",
+    "name": "🏳️‍🌈Nadine Pierre🏳️‍🌈",
+    "screen_name": "NadineP32119486",
+    "location": "Brighton ",
+    "description": "Founder of What’s Supp!",
+    "url": "https://t.co/ZfkrcpI12F",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/ZfkrcpI12F",
+            "expanded_url": "https://whats-supp.com",
+            "display_url": "whats-supp.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 48,
+    "friends_count": 102,
+    "listed_count": 0,
+    "created_at": "Wed Jul 15 17:30:38 +0000 2020",
+    "favourites_count": 3994,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1873,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1322218370020814848/6DocJ9Ah_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322218370020814848/6DocJ9Ah_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1283453882769780737/1606204025",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none"
+  },
+  "Geo": null,
+  "Coordinates": null,
+  "Place": null,
+  "Contributors": null,
+  "is_quote_status": false,
+  "retweeted": false,
+  "lang": "en",
+  "CreatedDate": "Fri Dec 11 11:02:03 +0000 2020",
+  "Tweet": "feeling a little stressed out lately looking for a supplement that can help here are 4 of the best supplements to help relieve stresshttps//tco/tf4euknzjd #stressrelief #health",
+  "UserName": "🏳️‍🌈Nadine Pierre🏳️‍🌈",
+  "Retweet_Count": 0,
+  "possibly_sensitive": true,
+  "favorite_count": 0,
+  "favorited": false
+}]
